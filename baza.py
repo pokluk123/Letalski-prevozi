@@ -80,3 +80,6 @@ class Karta(Tabela):
             let     TEXT    REFERENCES let (id) 
                         NOT NULL);
         """)
+
+
+class         
