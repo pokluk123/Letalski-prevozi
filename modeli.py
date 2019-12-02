@@ -1,4 +1,4 @@
-import baza
+import baza1 as baza
 import sqlite3
 
 conn = sqlite3.connect('letalski_prevozi.db')

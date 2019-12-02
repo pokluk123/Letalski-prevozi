@@ -4,88 +4,107 @@ def pobrisi_tabele(conn):
     """
     Pobriše tabele iz baze.
     """
-    conn.execute("DROP TABLE IF EXISTS statistika;")
-    conn.execute("DROP TABLE IF EXISTS tekme;")
-    conn.execute("DROP TABLE IF EXISTS ekipe;")
-    conn.execute("DROP TABLE IF EXISTS igralci;")
+    conn.execute("DROP TABLE IF EXISTS karta;")
+    conn.execute("DROP TABLE IF EXISTS let;")
+    conn.execute("DROP TABLE IF EXISTS letalisce;")
+    conn.execute("DROP TABLE IF EXISTS letalo;")
+    conn.execute("DROP TABLE IF EXISTS linije;")
+    conn.execute("DROP TABLE IF EXISTS model;")
+    conn.execute("DROP TABLE IF EXISTS prevoznik;")
+
 
 def ustvari_tabele(conn):
     """
     Ustvari tabele v bazi.
     """
     conn.execute("""
-        CREATE TABLE igralci (
-            number          INTEGER PRIMARY KEY,
-            name            TEXT,
-            position        TEXT,
-            height          STRING,
-            weight          INTEGER,
-            year_of_birth   INTEGER
-        );
+        CREATE TABLE karta (
+            id      INTEGER PRIMARY KEY AUTOINCREMENT,
+            ime     TEXT,
+            priimek TEXT,
+            cena    INTEGER,
+            let     TEXT    REFERENCES let (id) 
+                            NOT NULL
+            );
     """)
     conn.execute("""
-        CREATE TABLE ekipe (
-            tag        STRING PRIMARY KEY,
-            trainer    TEXT,
-            franchise  TEXT
-        );
+        CREATE TABLE let (
+            id            INTEGER  PRIMARY KEY AUTOINCREMENT,
+            odhod         DATETIME,
+            prihod        DATETIME,
+            stevilka_leta          REFERENCES linije (koda) 
+                                NOT NULL
+);
     """)
     conn.execute("""
-        CREATE TABLE tekme (
-            date            DATE PRIMARY KEY,
-            opponent        STRING REFERENCES ekipe(franchise),
-            outcome         STRING,
-            pointsteam      INTEGER,
-            pointsopponent  INTEGER
-        );
+        CREATE TABLE letalisce (
+            koda_letalisce TEXT PRIMARY KEY,
+            ime            TEXT
+);
     """)
     conn.execute("""
-        CREATE TABLE statistika (
-            playerREF    INTEGER REFERENCES igralci(number),
-            dateREF      DATE REFERENCES tekme(date),
-            rebounds     INTEGER,
-            assists      INTEGER,
-            steals       INTEGER,
-            points       INTEGER
-        );
+        CREATE TABLE linije (
+            koda             TEXT PRIMARY KEY,
+            odhod_ura        TIME,
+            odhod_dan        TEXT,
+            cas_letanje      TIME,
+            odhod_letalisce  TEXT REFERENCES letalisce (koda_letalisca),
+            prihod_letalisce TEXT REFERENCES letalisce (koda_letalisca),
+            CHECK(odhod_letalisce <> prihod_letalisce)
+);
+
+    """)
+    conn.execute("""
+        CREATE TABLE model (
+            stevilka_modela INTEGER PRIMARY KEY,
+            stevilo_sedezev INTEGER
+);
+    """)
+    conn.execute("""
+        CREATE TABLE prevoznik (
+            koda TEXT PRIMARY KEY,
+            ime  TEX
+);
     """)
 
-def uvozi_igralci(conn):
+def uvozi_karta(conn):
     """
     Uvozi podatke o igralcih.
     """
-    conn.execute("DELETE FROM statistika;")
-    conn.execute("DELETE FROM igralci;")
-    with open('Podatki/igralci.csv') as datoteka:
+    conn.execute("DELETE FROM let;")
+    conn.execute("DELETE FROM karta;")
+    with open('karta.csv') as datoteka: #spremen
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
-            INSERT INTO igralci VALUES ({})
+            INSERT INTO karta VALUES ({})
         """.format(', '.join(["?"] * len(stolpci)))
         for vrstica in podatki:
             conn.execute(poizvedba, vrstica)
 
-def uvozi_ekipe(conn):
+def uvozi_let(conn):
     """
     Uvozi podatke o ekipah.
     """
-    conn.execute("DELETE FROM tekme;")
-    conn.execute("DELETE FROM ekipe;")
+    conn.execute("DELETE FROM karta;")
+    conn.execute("DELETE FROM letalo;")
+    conn.execute("DELETE FROM linije;")
+    conn.execute("DELETE FROM let;")
     with open('podatki/ekipe.csv') as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
-            INSERT INTO ekipe VALUES ({})
+            INSERT INTO let VALUES ({})
         """.format(', '.join(["?"] * len(stolpci)))
         for vrstica in podatki:
             conn.execute(poizvedba, vrstica)
 
-def uvozi_tekme (conn):
+def uvozi_letalisce (conn):
     """
     Uvozi podatke o žanrih.
     """
-    conn.execute("DELETE FROM statistika;")
-    conn.execute("DELETE FROM tekme;")
+    conn.execute("DELETE FROM linija;")
+    conn.execute("DELETE FROM letalisce;")
     with open('podatki/tekme.csv') as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
@@ -95,19 +114,82 @@ def uvozi_tekme (conn):
         for vrstica in podatki:
             conn.execute(poizvedba, vrstica)
 
-def uvozi_statistika(conn):
+def uvozi_letalo(conn):
     """
     Uvozi podatke o vlogah.
     """
-    conn.execute("DELETE FROM statistika;")
+    conn.execute("DELETE FROM let;")
+    conn.execute("DELETE FROM model;")
+    conn.execute("DELETE FROM letalo;")
     with open('podatki/statistika.csv') as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
-            INSERT INTO statistika VALUES ({})
+            INSERT INTO letalo VALUES ({})
         """.format(', '.join(["?"] * len(stolpci)))
         for vrstica in podatki:
             conn.execute(poizvedba, vrstica)
+
+def uvozi_linje(conn):
+    """
+    Uvozi podatke o vlogah.
+    """
+    conn.execute("DELETE FROM let;")
+    conn.execute("DELETE FROM model;")
+    conn.execute("DELETE FROM letaalisce;")
+    conn.execute("DELETE FROM prevoznik;")
+    conn.execute("DELETE FROM linije;")
+    with open('podatki/statistika.csv') as datoteka:
+        podatki = csv.reader(datoteka)
+        stolpci = next(podatki)
+        poizvedba = """
+            INSERT INTO linije VALUES ({})
+        """.format(', '.join(["?"] * len(stolpci)))
+        for vrstica in podatki:
+            conn.execute(poizvedba, vrstica)
+
+def uvozi_model(conn):
+    """
+    Uvozi podatke o vlogah.
+    """
+    conn.execute("DELETE FROM linije;")
+    conn.execute("DELETE FROM model;")
+    conn.execute("DELETE FROM letalo;")
+    with open('podatki/statistika.csv') as datoteka:
+        podatki = csv.reader(datoteka)
+        stolpci = next(podatki)
+        poizvedba = """
+            INSERT INTO model VALUES ({})
+        """.format(', '.join(["?"] * len(stolpci)))
+        for vrstica in podatki:
+            conn.execute(poizvedba, vrstica)
+def uvozi_prevoznik(conn):
+    """
+    Uvozi podatke o vlogah.
+    """
+    conn.execute("DELETE FROM linije;")
+    conn.execute("DELETE FROM prevoznik;")
+    
+    with open('podatki/statistika.csv') as datoteka:
+        podatki = csv.reader(datoteka)
+        stolpci = next(podatki)
+        poizvedba = """
+            INSERT INTO model VALUES ({})
+        """.format(', '.join(["?"] * len(stolpci)))
+        for vrstica in podatki:
+            conn.execute(poizvedba, vrstica)
+
+
+
+
+
+
+
+
+
+
+
+
 
 def ustvari_bazo(conn):
     """
@@ -115,16 +197,20 @@ def ustvari_bazo(conn):
     """
     pobrisi_tabele(conn)
     ustvari_tabele(conn)
-    uvozi_igralci(conn)
-    uvozi_ekipe(conn)
-    uvozi_tekme(conn)
-    uvozi_statistika(conn)
+    uvozi_karta(conn)
+    """
+    uvozi_let(conn)
+    uvozi_letalo(conn)
+    uvozi_linje(conn)
+    uvozi_prevoznik(conn)
+    uvozi_letalisce(conn)
+    uvozi_model(conn) """
 
 def ustvari_bazo_ce_ne_obstaja(conn):
     """
     Ustvari bazo, če ta še ne obstaja.
     """
     with conn:
-        conn = conn.execute("SELECT COUNT(*) FROM sqlite_master")
-        if conn.fetchone() == (0, ):
-            ustvari_bazo(conn)
+        #conn = conn.execute("SELECT COUNT(*) FROM sqlite_master")
+        #if conn.fetchone() == (0, ):
+        ustvari_bazo(conn)

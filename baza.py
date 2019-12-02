@@ -95,14 +95,6 @@ class Tabela:
             return cur.lastrowid
 
 
-
-
-
-
-
-
-
-
 class Letalisce(Tabela):
     '''tabela za letališča'''
     ime='letalisca'
@@ -276,3 +268,71 @@ class Prevoznik(Tabela):
         if podatki[oznaka] is not None:
             self.oznaka.dodaj_vrstico([podatki[oznaka]], insert)
         super().dodaj_vrstico(podatki, poizvedba)
+
+
+
+
+        #na konc
+def ustvari_tabele(tabele):
+    """
+    Ustvari podane tabele.
+    """
+    for t in tabele:
+        t.ustvari()
+
+
+def izbrisi_tabele(tabele):
+    """
+    Izbriši podane tabele.
+    """
+    for t in tabele:
+        t.izbrisi()
+
+
+def uvozi_podatke(tabele):
+    """
+    Uvozi podatke v podane tabele.
+    """
+    for t in tabele:
+        t.uvozi()
+
+
+def izprazni_tabele(tabele):
+    """
+    Izprazni podane tabele.
+    """
+    for t in tabele:
+        t.izprazni()
+
+
+def ustvari_bazo(conn):
+    """
+    Izvede ustvarjanje baze.
+    """
+    tabele = pripravi_tabele(conn)
+    izbrisi_tabele(tabele)
+    ustvari_tabele(tabele)
+    uvozi_podatke(tabele)
+
+
+def pripravi_tabele(conn):
+    """
+    Pripravi objekte za tabele.
+    """
+    zanr = Zanr(conn)
+    oznaka = Oznaka(conn)
+    film = Film(conn, oznaka)
+    oseba = Oseba(conn)
+    vloga = Vloga(conn)
+    pripada = Pripada(conn, zanr)
+    return [zanr, oznaka, film, oseba, vloga, pripada]
+
+
+def ustvari_bazo_ce_ne_obstaja(conn):
+    """
+    Ustvari bazo, če ta še ne obstaja.
+    """
+    with conn:
+        cur = conn.execute("SELECT COUNT(*) FROM sqlite_master")
+        if cur.fetchone() == (0, ):
+            ustvari_bazo(conn)
