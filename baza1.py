@@ -66,6 +66,14 @@ def ustvari_tabele(conn):
             ime  TEX
 );
     """)
+    conn.execute("""
+        CREATE TABLE letalo (
+            id      INTEGER PRIMARY KEY AUTOINCREMENT,
+            serijska_številka     INTEGER,
+            model     TEXT    REFERENCES model (id) 
+                            NOT NULL
+            );
+    """)
 
 def uvozi_karta(conn):
     """
@@ -73,7 +81,7 @@ def uvozi_karta(conn):
     """
     conn.execute("DELETE FROM let;")
     conn.execute("DELETE FROM karta;")
-    with open('karta.csv') as datoteka: #spremen
+    with open('podatki/KARTA_podatki.csv') as datoteka: #spremen
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
@@ -90,7 +98,7 @@ def uvozi_let(conn):
     conn.execute("DELETE FROM letalo;")
     conn.execute("DELETE FROM linije;")
     conn.execute("DELETE FROM let;")
-    with open('podatki/ekipe.csv') as datoteka:
+    with open('podatki/LET_podatki.csv') as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
@@ -105,7 +113,7 @@ def uvozi_letalisce (conn):
     """
     conn.execute("DELETE FROM linija;")
     conn.execute("DELETE FROM letalisce;")
-    with open('podatki/tekme.csv') as datoteka:
+    with open('podatki/letalisca.csv') as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
@@ -139,7 +147,7 @@ def uvozi_linje(conn):
     conn.execute("DELETE FROM letaalisce;")
     conn.execute("DELETE FROM prevoznik;")
     conn.execute("DELETE FROM linije;")
-    with open('podatki/statistika.csv') as datoteka:
+    with open('podatki/LINIJE_podatki.csv') as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
@@ -155,7 +163,7 @@ def uvozi_model(conn):
     conn.execute("DELETE FROM linije;")
     conn.execute("DELETE FROM model;")
     conn.execute("DELETE FROM letalo;")
-    with open('podatki/statistika.csv') as datoteka:
+    with open('podatki/MODEL_podatki.csv') as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
@@ -170,7 +178,7 @@ def uvozi_prevoznik(conn):
     conn.execute("DELETE FROM linije;")
     conn.execute("DELETE FROM prevoznik;")
     
-    with open('podatki/statistika.csv') as datoteka:
+    with open('podatki/Prevoznik_podatki.csv') as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
