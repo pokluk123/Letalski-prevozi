@@ -49,8 +49,10 @@ def prvih_deset():
     """
     Vrne prvih 10 letov
     """
-    return conn.execute("""SELECT id, odhod, prihod FROM let 
+    return conn.execute("""SELECT id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce
+                            FROM let JOIN  linije ON let.stevilka_leta = linije.koda
+                            WHERE odhod > date('now') 
                             ORDER BY odhod
-                            LIMIT 10
-                            WHERE odhod > NOW()
-                             """).fetchone()
+                            LIMIT 50;
+
+                             """).fetchall()
