@@ -31,3 +31,10 @@ def commit(fun):
     if vrstica is not None:
         return vrstica
     return False
+
+
+def ime_potnika(st):
+    """
+    Vrne ime igralca na podlagi leta na karti
+    """
+    return  ''.join(conn.execute("SELECT ime FROM karta WHERE let = ?",[st]).fetchone())
