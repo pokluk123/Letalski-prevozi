@@ -64,7 +64,7 @@ def uvozi_karta(conn):
     """
     Uvozi podatke o igralcih.
     """
-    with open('podatki/KARTA_podatki.csv') as datoteka: #spremen
+    with open('podatki/KARTA_podatki.csv', encoding="UTF-8") as datoteka: #spremen
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
@@ -78,7 +78,7 @@ def uvozi_let(conn):
     Uvozi podatke o ekipah.
     """
     i = 0
-    with open('podatki/LET_podatki.csv') as datoteka:
+    with open('podatki/LET_podatki.csv', encoding="UTF-8") as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
@@ -93,11 +93,11 @@ def uvozi_letalisce (conn):
     """
     Uvozi podatke o žanrih.
     """
-    with open('podatki/letalisca.csv') as datoteka:
+    with open('podatki/letalisca.csv', encoding="UTF-8") as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
-            INSERT INTO tekme VALUES ({})
+            INSERT INTO letalisce VALUES ({})
         """.format(', '.join(["?"] * len(stolpci)))
         for vrstica in podatki:
             conn.execute(poizvedba, vrstica)
@@ -107,7 +107,7 @@ def uvozi_linje(conn):
     """
     Uvozi podatke o vlogah.
     """
-    with open('podatki/LINIJE_podatki.csv') as datoteka:
+    with open('podatki/LINIJE_podatki.csv', encoding="UTF-8") as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
@@ -121,7 +121,7 @@ def uvozi_prevoznik(conn):
     """
     Uvozi podatke o vlogah.
     """    
-    with open('podatki/Prevoznik_podatki.csv') as datoteka:
+    with open('podatki/Prevoznik_podatki.csv', encoding="UTF-8") as datoteka:
         podatki = csv.reader(datoteka)
         stolpci = next(podatki)
         poizvedba = """
