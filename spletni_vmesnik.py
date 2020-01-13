@@ -5,11 +5,11 @@ import modeli
 
 @get('/')
 def glavna_stran():
-    (st_tekem,) = modeli.stevilo_tekem()
-    (st_igralcev,) = modeli.stevilo_igralcev()
+    (prvih_deset,) = modeli.prvih_deset()
+    
     return template('glavna_stran',
-                    st_tekem = st_tekem,
-                    st_igralcev = st_igralcev
+                    leti = prvih_deset,
+                    
                     )
 
 @get('/igralci/')

@@ -22,7 +22,7 @@ def commit(fun):
     funkcija.nocommit = fun
     return funkcija
   
-  def id_karte(ime):
+def id_karte(ime):
     """
     Vrne ID karte, če je karta s tem imenom obstaja
     Če karte ni, vrne False.
@@ -39,8 +39,18 @@ def ime_potnika(let):
     """
     return  ''.join(conn.execute("SELECT ime FROM karta WHERE let = ?",[let]).fetchone())
 
-def vsi_prevozi()
+def vsi_prevozi():
     """
     Vrne orvih 10 linij
     """
     return conn.execute("""SELECT * FROM linije """).fetchone()
+
+def prvih_deset():
+    """
+    Vrne prvih 10 letov
+    """
+    return conn.execute("""SELECT id, odhod, prihod FROM let 
+                            ORDER BY odhod
+                            LIMIT 10
+                            WHERE odhod > NOW()
+                             """).fetchone()
