@@ -1,1001 +1,1001 @@
 koda,odhod_dan,cas_letenja,odhod_letalisce,prihod_letalisce
-1,2019-05-13,"error: invalid date ""00:00 """,MQU,GLT
-2,2019-10-23,"error: invalid date ""00:00 """,MXB,UKI
-3,2019-09-02,"error: invalid date ""00:00 """,MBW,YSH
-4,2019-08-22,"error: invalid date ""00:00 """,NEU,MNL
-5,2019-03-24,"error: invalid date ""00:00 """,ULA,TFL
-6,2019-03-10,"error: invalid date ""00:00 """,MKG,SJE
-7,2019-11-16,"error: invalid date ""00:00 """,ELV,GUL
-8,2019-01-13,"error: invalid date ""00:00 """,NKW,DIB
-9,2019-09-02,"error: invalid date ""00:00 """,PBQ,FMN
-10,2019-01-13,"error: invalid date ""00:00 """,IBP,COG
-11,2019-10-20,"error: invalid date ""00:00 """,BYM,EMD
-12,2019-07-22,"error: invalid date ""00:00 """,SOW,GDZ
-13,2019-06-26,"error: invalid date ""00:00 """,MYG,YYN
-14,2019-10-22,"error: invalid date ""00:00 """,HFA,MAU
-15,2019-09-30,"error: invalid date ""00:00 """,BMP,KHY
-16,2019-08-22,"error: invalid date ""00:00 """,JUV,ESH
-17,2019-10-30,"error: invalid date ""00:00 """,CBF,AAX
-18,2019-12-16,"error: invalid date ""00:00 """,YRG,KGE
-19,2019-08-28,"error: invalid date ""00:00 """,TEV,SNW
-20,2019-04-08,"error: invalid date ""00:00 """,YBC,TCL
-21,2019-08-29,"error: invalid date ""00:00 """,PEU,MOJ
-22,2019-06-28,"error: invalid date ""00:00 """,BUO,YAM
-23,2019-07-02,"error: invalid date ""00:00 """,GTE,TRD
-24,2019-03-21,"error: invalid date ""00:00 """,CNB,FRN
-25,2019-11-23,"error: invalid date ""00:00 """,AHJ,WUN
-26,2019-06-03,"error: invalid date ""00:00 """,ASS,HFS
-27,2019-06-20,"error: invalid date ""00:00 """,PKT,BDA
-28,2019-09-11,"error: invalid date ""00:00 """,CDN,DAY
-29,2019-03-09,"error: invalid date ""00:00 """,SRP,DOB
-30,2019-07-04,"error: invalid date ""00:00 """,UOS,PEW
-31,2019-10-02,"error: invalid date ""00:00 """,GTN,SKZ
-32,2019-02-20,"error: invalid date ""00:00 """,MLS,SIA
-33,2019-10-02,"error: invalid date ""00:00 """,MNG,MQM
-34,2019-07-07,"error: invalid date ""00:00 """,WTS,YZZ
-35,2019-03-18,"error: invalid date ""00:00 """,LRS,TUB
-36,2019-01-30,"error: invalid date ""00:00 """,ZQW,POL
-37,2019-06-14,"error: invalid date ""00:00 """,HND,HDY
-38,2019-06-29,"error: invalid date ""00:00 """,GKL,KVR
-39,2019-03-20,"error: invalid date ""00:00 """,UTN,WKB
-40,2019-12-13,"error: invalid date ""00:00 """,CPO,ZLO
-41,2019-03-16,"error: invalid date ""00:00 """,IAH,SAA
-42,2019-02-15,"error: invalid date ""00:00 """,PKU,NQN
-43,2019-05-14,"error: invalid date ""00:00 """,RNA,BEQ
-44,2019-07-23,"error: invalid date ""00:00 """,BGA,BFW
-45,2019-10-05,"error: invalid date ""00:00 """,MPW,TJM
-46,2019-12-14,"error: invalid date ""00:00 """,NDN,TOQ
-47,2019-03-25,"error: invalid date ""00:00 """,HCQ,WKR
-48,2019-11-13,"error: invalid date ""00:00 """,RCU,MCF
-49,2019-05-04,"error: invalid date ""00:00 """,GUI,ABJ
-50,2019-08-12,"error: invalid date ""00:00 """,AWK,AUY
-51,2019-05-03,"error: invalid date ""00:00 """,TKA,ABS
-52,2019-08-16,"error: invalid date ""00:00 """,TQD,YZT
-53,2019-11-24,"error: invalid date ""00:00 """,KIR,YML
-54,2019-02-07,"error: invalid date ""00:00 """,ABK,YMJ
-55,2019-10-27,"error: invalid date ""00:00 """,BES,KOS
-56,2019-11-28,"error: invalid date ""00:00 """,VRB,BGM
-57,2019-04-06,"error: invalid date ""00:00 """,YAB,CSA
-58,2019-04-15,"error: invalid date ""00:00 """,CAB,BEJ
-59,2019-06-20,"error: invalid date ""00:00 """,GUC,ELP
-60,2019-11-12,"error: invalid date ""00:00 """,JNZ,DOG
-61,2019-12-20,"error: invalid date ""00:00 """,OCA,SOM
-62,2019-04-02,"error: invalid date ""00:00 """,TNM,SRE
-63,2019-08-08,"error: invalid date ""00:00 """,JKR,BEW
-64,2019-11-01,"error: invalid date ""00:00 """,GOU,HAS
-65,2019-03-22,"error: invalid date ""00:00 """,AEB,FRL
-66,2020-01-03,"error: invalid date ""00:00 """,MBW,MGA
-67,2019-10-27,"error: invalid date ""00:00 """,GES,QLP
-68,2019-04-18,"error: invalid date ""00:00 """,ZCN,TAT
-69,2019-06-26,"error: invalid date ""00:00 """,XQC,JGS
-70,2019-10-01,"error: invalid date ""00:00 """,MGC,KHI
-71,2019-09-10,"error: invalid date ""00:00 """,YNM,LHE
-72,2019-08-15,"error: invalid date ""00:00 """,ONQ,PQM
-73,2019-07-31,"error: invalid date ""00:00 """,MQT,BWX
-74,2019-04-18,"error: invalid date ""00:00 """,YPE,JXN
-75,2019-06-16,"error: invalid date ""00:00 """,BGW,MLA
-76,2019-01-14,"error: invalid date ""00:00 """,SDK,PAB
-77,2019-08-12,"error: invalid date ""00:00 """,MDE,KMP
-78,2019-10-11,"error: invalid date ""00:00 """,OSK,FNU
-79,2019-09-12,"error: invalid date ""00:00 """,OMH,OGL
-80,2019-12-03,"error: invalid date ""00:00 """,KNH,PRX
-81,2019-05-27,"error: invalid date ""00:00 """,UUD,BHI
-82,2019-11-25,"error: invalid date ""00:00 """,TSH,SWD
-83,2019-07-06,"error: invalid date ""00:00 """,IRZ,GNZ
-84,2019-06-16,"error: invalid date ""00:00 """,JUA,AIZ
-85,2020-01-08,"error: invalid date ""00:00 """,HHR,TTH
-86,2019-07-31,"error: invalid date ""00:00 """,VLL,MYD
-87,2019-02-16,"error: invalid date ""00:00 """,QPA,MMX
-88,2019-07-16,"error: invalid date ""00:00 """,SUY,PVU
-89,2019-08-21,"error: invalid date ""00:00 """,YQS,HMI
-90,2019-08-10,"error: invalid date ""00:00 """,YNJ,PAH
-91,2019-04-26,"error: invalid date ""00:00 """,OZG,KYD
-92,2019-09-30,"error: invalid date ""00:00 """,WSO,HIM
-93,2019-02-10,"error: invalid date ""00:00 """,BEV,AGS
-94,2020-01-12,"error: invalid date ""00:00 """,USK,UGU
-95,2019-03-27,"error: invalid date ""00:00 """,MST,CND
-96,2019-05-31,"error: invalid date ""00:00 """,EGO,WKI
-97,2019-12-27,"error: invalid date ""00:00 """,MAQ,HAR
-98,2020-01-02,"error: invalid date ""00:00 """,DHT,SIU
-99,2019-04-05,"error: invalid date ""00:00 """,KFG,BWX
-100,2019-08-12,"error: invalid date ""00:00 """,RBD,NSY
-101,2019-07-11,"error: invalid date ""00:00 """,KRK,FLG
-102,2019-01-23,"error: invalid date ""00:00 """,BNJ,YNS
-103,2019-05-26,"error: invalid date ""00:00 """,GHC,SVD
-104,2019-05-30,"error: invalid date ""00:00 """,TMC,TJL
-105,2019-09-22,"error: invalid date ""00:00 """,ABD,YNB
-106,2019-07-27,"error: invalid date ""00:00 """,PLD,XYE
-107,2019-03-24,"error: invalid date ""00:00 """,JAM,BOM
-108,2019-02-07,"error: invalid date ""00:00 """,SBW,ITO
-109,2019-05-10,"error: invalid date ""00:00 """,HCR,ACK
-110,2019-03-01,"error: invalid date ""00:00 """,STX,BPC
-111,2019-11-26,"error: invalid date ""00:00 """,KDO,HAW
-112,2019-05-06,"error: invalid date ""00:00 """,LNJ,MEL
-113,2019-03-22,"error: invalid date ""00:00 """,YYU,CME
-114,2019-11-29,"error: invalid date ""00:00 """,WAG,LIL
-115,2019-04-13,"error: invalid date ""00:00 """,WAI,HUE
-116,2019-12-03,"error: invalid date ""00:00 """,AAM,MJI
-117,2019-10-01,"error: invalid date ""00:00 """,AWZ,BWA
-118,2019-04-19,"error: invalid date ""00:00 """,CVE,AOC
-119,2019-11-19,"error: invalid date ""00:00 """,CSK,CXR
-120,2019-10-23,"error: invalid date ""00:00 """,TZL,YHE
-121,2019-01-29,"error: invalid date ""00:00 """,TUN,AJI
-122,2019-05-20,"error: invalid date ""00:00 """,YWG,AEY
-123,2019-09-29,"error: invalid date ""00:00 """,CGK,SBD
-124,2019-07-01,"error: invalid date ""00:00 """,TAM,TOB
-125,2019-02-11,"error: invalid date ""00:00 """,BAZ,NPO
-126,2019-08-25,"error: invalid date ""00:00 """,NBO,ELQ
-127,2019-06-22,"error: invalid date ""00:00 """,GRF,FRS
-128,2019-06-17,"error: invalid date ""00:00 """,MCG,YOS
-129,2019-07-01,"error: invalid date ""00:00 """,RSD,FLA
-130,2020-01-11,"error: invalid date ""00:00 """,MAX,JOT
-131,2019-06-26,"error: invalid date ""00:00 """,MTS,ORU
-132,2019-04-20,"error: invalid date ""00:00 """,TNT,PZL
-133,2019-04-25,"error: invalid date ""00:00 """,YVQ,TPP
-134,2019-10-19,"error: invalid date ""00:00 """,LTM,SHR
-135,2019-03-18,"error: invalid date ""00:00 """,CID,ULQ
-136,2019-07-30,"error: invalid date ""00:00 """,ASJ,TSA
-137,2019-08-17,"error: invalid date ""00:00 """,CTS,DCY
-138,2019-05-31,"error: invalid date ""00:00 """,ATD,HUW
-139,2019-03-09,"error: invalid date ""00:00 """,GBG,FRI
-140,2019-04-10,"error: invalid date ""00:00 """,KGO,OZR
-141,2019-01-20,"error: invalid date ""00:00 """,WKL,CRL
-142,2019-06-06,"error: invalid date ""00:00 """,SVL,KHZ
-143,2019-05-14,"error: invalid date ""00:00 """,VAA,LBQ
-144,2019-11-11,"error: invalid date ""00:00 """,CPT,NNG
-145,2019-01-22,"error: invalid date ""00:00 """,JRB,IMM
-146,2019-07-25,"error: invalid date ""00:00 """,JMJ,CPA
-147,2019-06-04,"error: invalid date ""00:00 """,TAI,HFT
-148,2020-01-04,"error: invalid date ""00:00 """,YPY,CLN
-149,2019-06-09,"error: invalid date ""00:00 """,IAR,SVI
-150,2019-09-18,"error: invalid date ""00:00 """,KSN,HAJ
-151,2019-08-13,"error: invalid date ""00:00 """,BYC,MOO
-152,2019-04-12,"error: invalid date ""00:00 """,RLG,UOX
-153,2019-09-22,"error: invalid date ""00:00 """,MII,BAT
-154,2019-05-12,"error: invalid date ""00:00 """,YAX,NCA
-155,2019-08-03,"error: invalid date ""00:00 """,QRW,SDM
-156,2019-07-26,"error: invalid date ""00:00 """,TLU,YHM
-157,2019-01-14,"error: invalid date ""00:00 """,TSJ,AVV
-158,2019-09-20,"error: invalid date ""00:00 """,KUU,ARI
-159,2019-06-29,"error: invalid date ""00:00 """,WMH,JAE
-160,2019-11-06,"error: invalid date ""00:00 """,JHW,BCL
-161,2019-09-15,"error: invalid date ""00:00 """,LRR,CGJ
-162,2019-04-28,"error: invalid date ""00:00 """,IXB,ASB
-163,2019-01-21,"error: invalid date ""00:00 """,YOW,YAB
-164,2019-11-15,"error: invalid date ""00:00 """,ZGI,GXH
-165,2019-04-05,"error: invalid date ""00:00 """,PMR,MHH
-166,2019-11-12,"error: invalid date ""00:00 """,YUM,SQZ
-167,2019-06-16,"error: invalid date ""00:00 """,EUX,NLI
-168,2019-02-22,"error: invalid date ""00:00 """,EGV,IKB
-169,2019-10-18,"error: invalid date ""00:00 """,TPF,NBS
-170,2019-04-19,"error: invalid date ""00:00 """,VSE,OEM
-171,2019-01-22,"error: invalid date ""00:00 """,KOQ,GRB
-172,2019-09-21,"error: invalid date ""00:00 """,MQN,BMX
-173,2019-03-07,"error: invalid date ""00:00 """,IHR,FNC
-174,2019-09-06,"error: invalid date ""00:00 """,ADE,QFG
-175,2019-09-30,"error: invalid date ""00:00 """,MNA,EIY
-176,2019-02-10,"error: invalid date ""00:00 """,SHO,IGT
-177,2020-01-06,"error: invalid date ""00:00 """,DRS,MCF
-178,2019-02-04,"error: invalid date ""00:00 """,LMT,EJN
-179,2019-12-18,"error: invalid date ""00:00 """,MLU,FTA
-180,2019-09-14,"error: invalid date ""00:00 """,EAS,HMR
-181,2019-05-29,"error: invalid date ""00:00 """,BFJ,IPI
-182,2019-03-18,"error: invalid date ""00:00 """,GJL,TKC
-183,2020-01-11,"error: invalid date ""00:00 """,FBM,MFD
-184,2019-05-01,"error: invalid date ""00:00 """,KAI,RUA
-185,2019-07-17,"error: invalid date ""00:00 """,BUG,HUI
-186,2019-06-01,"error: invalid date ""00:00 """,NRA,KTM
-187,2019-05-01,"error: invalid date ""00:00 """,PBR,TEN
-188,2019-07-02,"error: invalid date ""00:00 """,AGX,CLZ
-189,2019-12-31,"error: invalid date ""00:00 """,LVO,TOG
-190,2019-12-28,"error: invalid date ""00:00 """,GUF,YGQ
-191,2019-09-15,"error: invalid date ""00:00 """,PAL,HUS
-192,2019-06-18,"error: invalid date ""00:00 """,BYQ,ERI
-193,2019-11-15,"error: invalid date ""00:00 """,PYH,OAI
-194,2019-01-21,"error: invalid date ""00:00 """,YSH,ELC
-195,2019-04-20,"error: invalid date ""00:00 """,PWK,DBN
-196,2019-12-09,"error: invalid date ""00:00 """,TMW,PNV
-197,2019-09-16,"error: invalid date ""00:00 """,GAF,ODE
-198,2019-03-28,"error: invalid date ""00:00 """,YLJ,YXY
-199,2019-06-23,"error: invalid date ""00:00 """,NTT,APK
-200,2019-11-20,"error: invalid date ""00:00 """,WLG,TLH
-201,2019-06-15,"error: invalid date ""00:00 """,SXB,EDO
-202,2019-01-15,"error: invalid date ""00:00 """,BDM,KYE
-203,2019-07-26,"error: invalid date ""00:00 """,EOI,EYK
-204,2019-10-28,"error: invalid date ""00:00 """,DEL,TYS
-205,2019-06-26,"error: invalid date ""00:00 """,SAL,KOP
-206,2019-02-10,"error: invalid date ""00:00 """,HLG,KUK
-207,2019-12-15,"error: invalid date ""00:00 """,MVW,EJN
-208,2019-11-15,"error: invalid date ""00:00 """,ATY,KSU
-209,2019-10-01,"error: invalid date ""00:00 """,VNA,IQM
-210,2019-05-30,"error: invalid date ""00:00 """,NOP,CGP
-211,2019-08-22,"error: invalid date ""00:00 """,EWR,KAN
-212,2019-11-08,"error: invalid date ""00:00 """,LOP,KRR
-213,2019-04-23,"error: invalid date ""00:00 """,PEI,PML
-214,2019-11-03,"error: invalid date ""00:00 """,YBW,NBG
-215,2019-07-05,"error: invalid date ""00:00 """,NFG,IMK
-216,2019-09-26,"error: invalid date ""00:00 """,MSA,BZC
-217,2019-07-02,"error: invalid date ""00:00 """,NGF,LEX
-218,2019-12-23,"error: invalid date ""00:00 """,AJK,PGV
-219,2019-12-30,"error: invalid date ""00:00 """,MJK,MWA
-220,2019-07-10,"error: invalid date ""00:00 """,HIM,BQN
-221,2019-07-21,"error: invalid date ""00:00 """,DNV,SVQ
-222,2019-04-05,"error: invalid date ""00:00 """,ILD,LMP
-223,2019-11-24,"error: invalid date ""00:00 """,DLD,AOH
-224,2019-02-14,"error: invalid date ""00:00 """,BFD,SST
-225,2019-07-16,"error: invalid date ""00:00 """,RND,DLD
-226,2019-09-25,"error: invalid date ""00:00 """,TPJ,CDU
-227,2019-08-04,"error: invalid date ""00:00 """,IRC,LRS
-228,2019-03-02,"error: invalid date ""00:00 """,SJW,KAD
-229,2019-01-16,"error: invalid date ""00:00 """,TCC,MNY
-230,2019-04-08,"error: invalid date ""00:00 """,DU9,GUS
-231,2019-03-30,"error: invalid date ""00:00 """,YTL,OLL
-232,2019-02-15,"error: invalid date ""00:00 """,NEW,GIF
-233,2019-10-19,"error: invalid date ""00:00 """,TRO,CHG
-234,2020-01-06,"error: invalid date ""00:00 """,LZO,BGI
-235,2019-02-01,"error: invalid date ""00:00 """,MWX,OUK
-236,2019-05-28,"error: invalid date ""00:00 """,CLW,NCJ
-237,2019-09-27,"error: invalid date ""00:00 """,WST,CIS
-238,2019-09-27,"error: invalid date ""00:00 """,DRI,CCR
-239,2020-01-10,"error: invalid date ""00:00 """,PLL,YFX
-240,2019-09-14,"error: invalid date ""00:00 """,SUI,TVL
-241,2019-07-18,"error: invalid date ""00:00 """,YZT,YKY
-242,2019-11-03,"error: invalid date ""00:00 """,KKS,MUN
-243,2019-10-24,"error: invalid date ""00:00 """,GZA,ASO
-244,2019-03-14,"error: invalid date ""00:00 """,JUB,YLL
-245,2019-07-20,"error: invalid date ""00:00 """,CYG,CAN
-246,2019-04-05,"error: invalid date ""00:00 """,UTC,KEP
-247,2019-09-06,"error: invalid date ""00:00 """,CBN,JKG
-248,2020-01-09,"error: invalid date ""00:00 """,SVU,JFR
-249,2020-01-12,"error: invalid date ""00:00 """,BAV,YDO
-250,2019-08-31,"error: invalid date ""00:00 """,CCS,LOS
-251,2019-11-17,"error: invalid date ""00:00 """,CAR,LBI
-252,2019-12-11,"error: invalid date ""00:00 """,OLP,LDN
-253,2019-06-20,"error: invalid date ""00:00 """,CWJ,BIS
-254,2019-01-20,"error: invalid date ""00:00 """,PXU,IOW
-255,2019-04-04,"error: invalid date ""00:00 """,YCN,HPN
-256,2020-01-01,"error: invalid date ""00:00 """,MGL,HAV
-257,2019-07-17,"error: invalid date ""00:00 """,BHR,AZI
-258,2019-07-16,"error: invalid date ""00:00 """,CPC,RDG
-259,2019-10-31,"error: invalid date ""00:00 """,PHF,FSP
-260,2019-01-17,"error: invalid date ""00:00 """,ULG,NAH
-261,2019-02-23,"error: invalid date ""00:00 """,LYC,VAK
-262,2019-05-03,"error: invalid date ""00:00 """,KRF,YNT
-263,2019-11-12,"error: invalid date ""00:00 """,DPO,BEU
-264,2019-06-12,"error: invalid date ""00:00 """,EBB,KSM
-265,2019-05-18,"error: invalid date ""00:00 """,KVM,DBN
-266,2019-07-26,"error: invalid date ""00:00 """,PPC,SBA
-267,2019-12-01,"error: invalid date ""00:00 """,HOS,SGF
-268,2019-11-06,"error: invalid date ""00:00 """,OBL,CLE
-269,2019-07-31,"error: invalid date ""00:00 """,RNA,ELO
-270,2019-12-02,"error: invalid date ""00:00 """,LVA,KJA
-271,2019-08-07,"error: invalid date ""00:00 """,SRG,RVA
-272,2019-03-04,"error: invalid date ""00:00 """,YSM,YUM
-273,2019-10-08,"error: invalid date ""00:00 """,KGK,LPI
-274,2019-10-18,"error: invalid date ""00:00 """,UTN,SZL
-275,2019-08-12,"error: invalid date ""00:00 """,YBT,RNZ
-276,2019-10-15,"error: invalid date ""00:00 """,YYJ,SCZ
-277,2019-06-16,"error: invalid date ""00:00 """,ALU,CIT
-278,2019-04-01,"error: invalid date ""00:00 """,ABH,ODE
-279,2019-04-07,"error: invalid date ""00:00 """,RVV,GEC
-280,2019-07-22,"error: invalid date ""00:00 """,UDI,GIS
-281,2019-08-21,"error: invalid date ""00:00 """,TGZ,DEZ
-282,2019-06-18,"error: invalid date ""00:00 """,IAR,IBP
-283,2019-11-26,"error: invalid date ""00:00 """,MDQ,BIF
-284,2019-07-10,"error: invalid date ""00:00 """,LEC,CXI
-285,2019-01-13,"error: invalid date ""00:00 """,APK,IDY
-286,2019-06-28,"error: invalid date ""00:00 """,WLG,SNY
-287,2019-01-15,"error: invalid date ""00:00 """,USM,CKS
-288,2019-09-11,"error: invalid date ""00:00 """,YML,CYA
-289,2019-04-17,"error: invalid date ""00:00 """,APO,CCX
-290,2019-11-20,"error: invalid date ""00:00 """,BOB,TNC
-291,2019-12-16,"error: invalid date ""00:00 """,PAX,NAP
-292,2019-04-29,"error: invalid date ""00:00 """,EYK,MPV
-293,2019-10-13,"error: invalid date ""00:00 """,YKO,HVS
-294,2019-10-20,"error: invalid date ""00:00 """,YPD,FNI
-295,2019-03-08,"error: invalid date ""00:00 """,CKT,KGP
-296,2019-09-25,"error: invalid date ""00:00 """,ENA,BNN
-297,2019-05-13,"error: invalid date ""00:00 """,LEW,RVS
-298,2019-07-11,"error: invalid date ""00:00 """,SUB,GSO
-299,2019-09-20,"error: invalid date ""00:00 """,LJG,MKR
-300,2019-09-02,"error: invalid date ""00:00 """,GBD,MJN
-301,2019-03-31,"error: invalid date ""00:00 """,IMT,IAH
-302,2019-03-13,"error: invalid date ""00:00 """,VYI,DNP
-303,2019-02-10,"error: invalid date ""00:00 """,HVD,ADI
-304,2019-06-22,"error: invalid date ""00:00 """,TLD,MQL
-305,2019-12-18,"error: invalid date ""00:00 """,LFB,EMK
-306,2019-03-18,"error: invalid date ""00:00 """,BHB,RKH
-307,2019-11-27,"error: invalid date ""00:00 """,SSI,DGT
-308,2020-01-09,"error: invalid date ""00:00 """,HOK,ISN
-309,2019-04-08,"error: invalid date ""00:00 """,XMW,OSK
-310,2019-05-14,"error: invalid date ""00:00 """,MEC,MSU
-311,2019-12-29,"error: invalid date ""00:00 """,IVA,TGQ
-312,2019-02-27,"error: invalid date ""00:00 """,BQK,JAC
-313,2020-01-12,"error: invalid date ""00:00 """,SYO,SYW
-314,2019-11-24,"error: invalid date ""00:00 """,OVR,DBN
-315,2019-08-15,"error: invalid date ""00:00 """,YCY,FAE
-316,2019-02-23,"error: invalid date ""00:00 """,LDH,JUB
-317,2019-07-04,"error: invalid date ""00:00 """,PPC,HIF
-318,2019-10-31,"error: invalid date ""00:00 """,GBZ,BOG
-319,2019-09-29,"error: invalid date ""00:00 """,YVZ,GCM
-320,2019-05-03,"error: invalid date ""00:00 """,HPB,PZI
-321,2019-05-01,"error: invalid date ""00:00 """,DSN,YYD
-322,2019-04-12,"error: invalid date ""00:00 """,DHN,ZSA
-323,2019-02-12,"error: invalid date ""00:00 """,OTR,FBR
-324,2019-06-19,"error: invalid date ""00:00 """,SJW,ZKB
-325,2019-04-04,"error: invalid date ""00:00 """,RAE,SVH
-326,2019-03-20,"error: invalid date ""00:00 """,BQG,TEQ
-327,2019-02-02,"error: invalid date ""00:00 """,AHS,DBA
-328,2019-07-07,"error: invalid date ""00:00 """,DUE,PIB
-329,2019-02-24,"error: invalid date ""00:00 """,MRD,RUD
-330,2019-12-30,"error: invalid date ""00:00 """,PFN,PYK
-331,2019-04-18,"error: invalid date ""00:00 """,MQM,HHQ
-332,2019-08-12,"error: invalid date ""00:00 """,GWE,OGZ
-333,2019-07-01,"error: invalid date ""00:00 """,PUY,YRQ
-334,2019-09-19,"error: invalid date ""00:00 """,FFU,GRF
-335,2019-03-30,"error: invalid date ""00:00 """,THS,BYU
-336,2019-10-22,"error: invalid date ""00:00 """,PXH,TVF
-337,2019-07-19,"error: invalid date ""00:00 """,CTM,EBH
-338,2019-04-02,"error: invalid date ""00:00 """,KAD,MYL
-339,2019-07-17,"error: invalid date ""00:00 """,LBR,MVV
-340,2019-11-11,"error: invalid date ""00:00 """,MRG,LSX
-341,2019-10-28,"error: invalid date ""00:00 """,OVB,WKA
-342,2019-12-12,"error: invalid date ""00:00 """,ERM,DIS
-343,2019-03-27,"error: invalid date ""00:00 """,ZJN,LMM
-344,2019-10-15,"error: invalid date ""00:00 """,BDE,SYQ
-345,2019-12-05,"error: invalid date ""00:00 """,KUV,SBU
-346,2019-09-17,"error: invalid date ""00:00 """,JSH,WPB
-347,2020-01-03,"error: invalid date ""00:00 """,SYT,CGR
-348,2019-03-30,"error: invalid date ""00:00 """,TGJ,TTC
-349,2019-07-25,"error: invalid date ""00:00 """,IXC,ROT
-350,2019-07-04,"error: invalid date ""00:00 """,KWZ,DPA
-351,2019-09-12,"error: invalid date ""00:00 """,QUY,LAS
-352,2019-07-30,"error: invalid date ""00:00 """,NHK,ZYI
-353,2019-09-14,"error: invalid date ""00:00 """,CHC,BMI
-354,2019-11-18,"error: invalid date ""00:00 """,KSH,CJM
-355,2019-02-07,"error: invalid date ""00:00 """,XRH,NZA
-356,2019-07-21,"error: invalid date ""00:00 """,RVE,YKN
-357,2019-06-22,"error: invalid date ""00:00 """,RMY,TBB
-358,2019-02-18,"error: invalid date ""00:00 """,SCT,SMT
-359,2019-08-29,"error: invalid date ""00:00 """,HYD,MCX
-360,2019-11-30,"error: invalid date ""00:00 """,HUY,SYM
-361,2019-11-16,"error: invalid date ""00:00 """,HIB,TMC
-362,2019-04-25,"error: invalid date ""00:00 """,NVI,SVL
-363,2019-11-02,"error: invalid date ""00:00 """,ZCO,VBY
-364,2019-08-13,"error: invalid date ""00:00 """,PRA,BGL
-365,2019-05-15,"error: invalid date ""00:00 """,MIA,GOQ
-366,2019-02-25,"error: invalid date ""00:00 """,YFX,SJD
-367,2019-09-12,"error: invalid date ""00:00 """,MGZ,SBT
-368,2019-04-11,"error: invalid date ""00:00 """,CBN,NON
-369,2019-09-12,"error: invalid date ""00:00 """,RDG,RNT
-370,2019-05-22,"error: invalid date ""00:00 """,GMU,FSD
-371,2019-05-21,"error: invalid date ""00:00 """,CGQ,AQJ
-372,2019-04-07,"error: invalid date ""00:00 """,KYZ,ILO
-373,2019-10-24,"error: invalid date ""00:00 """,MLZ,CBE
-374,2020-01-08,"error: invalid date ""00:00 """,BDE,LZR
-375,2019-10-13,"error: invalid date ""00:00 """,ZUH,YKM
-376,2019-05-21,"error: invalid date ""00:00 """,OTM,FAA
-377,2019-01-15,"error: invalid date ""00:00 """,PWA,FON
-378,2019-06-28,"error: invalid date ""00:00 """,TRV,YEC
-379,2019-05-20,"error: invalid date ""00:00 """,PSL,ANB
-380,2019-04-03,"error: invalid date ""00:00 """,BGA,CWI
-381,2019-01-31,"error: invalid date ""00:00 """,DLE,WIO
-382,2019-11-28,"error: invalid date ""00:00 """,NHD,NZC
-383,2019-12-08,"error: invalid date ""00:00 """,KRH,AKH
-384,2019-04-24,"error: invalid date ""00:00 """,SQQ,GMD
-385,2019-03-03,"error: invalid date ""00:00 """,XIJ,OAM
-386,2019-10-02,"error: invalid date ""00:00 """,YAY,AGS
-387,2019-11-26,"error: invalid date ""00:00 """,LUO,DIG
-388,2019-08-13,"error: invalid date ""00:00 """,JTC,ZFD
-389,2019-09-24,"error: invalid date ""00:00 """,PKZ,SNC
-390,2019-04-09,"error: invalid date ""00:00 """,MBZ,LAN
-391,2019-05-25,"error: invalid date ""00:00 """,CTN,MEL
-392,2019-09-04,"error: invalid date ""00:00 """,ZXT,KYI
-393,2019-08-24,"error: invalid date ""00:00 """,DEB,YYW
-394,2019-10-21,"error: invalid date ""00:00 """,KIJ,JAI
-395,2019-11-12,"error: invalid date ""00:00 """,YDG,OZH
-396,2019-05-13,"error: invalid date ""00:00 """,KKC,KHE
-397,2020-01-01,"error: invalid date ""00:00 """,DCT,DUD
-398,2019-03-18,"error: invalid date ""00:00 """,NCY,ILO
-399,2019-07-04,"error: invalid date ""00:00 """,YEG,OSW
-400,2019-07-20,"error: invalid date ""00:00 """,KUF,IFN
-401,2019-12-17,"error: invalid date ""00:00 """,NOZ,ULN
-402,2019-11-29,"error: invalid date ""00:00 """,YXJ,TIX
-403,2019-05-18,"error: invalid date ""00:00 """,YBY,ULG
-404,2020-01-03,"error: invalid date ""00:00 """,BRL,PNZ
-405,2019-12-10,"error: invalid date ""00:00 """,QPG,AAT
-406,2019-07-06,"error: invalid date ""00:00 """,OXB,ASV
-407,2019-02-07,"error: invalid date ""00:00 """,VCP,HHZ
-408,2019-10-10,"error: invalid date ""00:00 """,YBS,MAK
-409,2019-04-12,"error: invalid date ""00:00 """,MAO,VCA
-410,2020-01-05,"error: invalid date ""00:00 """,PWQ,MCC
-411,2019-01-26,"error: invalid date ""00:00 """,NAL,EVE
-412,2019-06-26,"error: invalid date ""00:00 """,NAL,PBL
-413,2019-11-06,"error: invalid date ""00:00 """,MJI,LNE
-414,2019-01-14,"error: invalid date ""00:00 """,YGW,ROP
-415,2019-12-01,"error: invalid date ""00:00 """,KMJ,DIU
-416,2019-12-10,"error: invalid date ""00:00 """,HKG,TOM
-417,2019-08-25,"error: invalid date ""00:00 """,SIG,KPC
-418,2019-07-23,"error: invalid date ""00:00 """,WLH,SHA
-419,2019-10-10,"error: invalid date ""00:00 """,POI,BTC
-420,2019-01-31,"error: invalid date ""00:00 """,ZGU,ORU
-421,2019-11-26,"error: invalid date ""00:00 """,QRY,AZD
-422,2020-01-09,"error: invalid date ""00:00 """,PIP,NCL
-423,2019-06-04,"error: invalid date ""00:00 """,RFD,HIA
-424,2020-01-01,"error: invalid date ""00:00 """,PMG,XOG
-425,2019-10-02,"error: invalid date ""00:00 """,BRW,YGP
-426,2019-10-20,"error: invalid date ""00:00 """,MMO,GLT
-427,2019-02-05,"error: invalid date ""00:00 """,YMA,HTR
-428,2019-03-02,"error: invalid date ""00:00 """,TEX,VKG
-429,2019-08-11,"error: invalid date ""00:00 """,DGE,MAJ
-430,2019-09-04,"error: invalid date ""00:00 """,BCO,YEN
-431,2019-12-22,"error: invalid date ""00:00 """,VNA,AHS
-432,2019-08-07,"error: invalid date ""00:00 """,FSM,YQY
-433,2020-01-03,"error: invalid date ""00:00 """,WJR,HZG
-434,2019-02-03,"error: invalid date ""00:00 """,BWQ,GRQ
-435,2019-03-01,"error: invalid date ""00:00 """,JCT,LAK
-436,2019-05-20,"error: invalid date ""00:00 """,CHF,MKU
-437,2019-03-18,"error: invalid date ""00:00 """,OLB,PXH
-438,2019-09-11,"error: invalid date ""00:00 """,ANF,EUA
-439,2019-11-07,"error: invalid date ""00:00 """,VLL,YEV
-440,2019-12-12,"error: invalid date ""00:00 """,CVE,THQ
-441,2019-03-26,"error: invalid date ""00:00 """,KDU,YNJ
-442,2019-09-07,"error: invalid date ""00:00 """,NHA,WPB
-443,2019-10-07,"error: invalid date ""00:00 """,PHB,WNS
-444,2019-10-01,"error: invalid date ""00:00 """,CYX,ILD
-445,2019-07-18,"error: invalid date ""00:00 """,CBF,GUP
-446,2019-07-24,"error: invalid date ""00:00 """,MOJ,EGO
-447,2019-12-21,"error: invalid date ""00:00 """,SNF,SHI
-448,2019-09-18,"error: invalid date ""00:00 """,UEL,KYD
-449,2019-02-27,"error: invalid date ""00:00 """,KMQ,KKR
-450,2019-08-15,"error: invalid date ""00:00 """,DJE,BWO
-451,2019-04-30,"error: invalid date ""00:00 """,CTC,SJY
-452,2019-12-12,"error: invalid date ""00:00 """,TCX,USQ
-453,2019-12-20,"error: invalid date ""00:00 """,WMI,ISA
-454,2019-06-23,"error: invalid date ""00:00 """,SME,OSI
-455,2019-12-04,"error: invalid date ""00:00 """,IVA,BQK
-456,2019-02-20,"error: invalid date ""00:00 """,TMN,CBF
-457,2019-11-04,"error: invalid date ""00:00 """,WBW,OMR
-458,2019-05-30,"error: invalid date ""00:00 """,GUI,KWB
-459,2019-12-02,"error: invalid date ""00:00 """,HTL,NDY
-460,2019-11-08,"error: invalid date ""00:00 """,DBQ,FLN
-461,2019-10-23,"error: invalid date ""00:00 """,HOV,BEQ
-462,2019-12-23,"error: invalid date ""00:00 """,YQD,SMS
-463,2019-11-07,"error: invalid date ""00:00 """,HOT,WWR
-464,2019-05-26,"error: invalid date ""00:00 """,SKF,BJP
-465,2019-04-06,"error: invalid date ""00:00 """,LAS,UGC
-466,2020-01-08,"error: invalid date ""00:00 """,HYD,EAA
-467,2019-10-23,"error: invalid date ""00:00 """,KEP,CLL
-468,2019-03-16,"error: invalid date ""00:00 """,YDN,MAA
-469,2019-05-02,"error: invalid date ""00:00 """,HUT,WFI
-470,2019-03-18,"error: invalid date ""00:00 """,TLA,GMD
-471,2019-04-14,"error: invalid date ""00:00 """,NAQ,RVE
-472,2019-02-02,"error: invalid date ""00:00 """,PIP,FRC
-473,2019-08-16,"error: invalid date ""00:00 """,YKH,SMI
-474,2019-06-12,"error: invalid date ""00:00 """,CFO,CCC
-475,2019-10-26,"error: invalid date ""00:00 """,VDE,BUD
-476,2019-08-18,"error: invalid date ""00:00 """,FOS,TRU
-477,2019-05-25,"error: invalid date ""00:00 """,CLM,MCY
-478,2019-10-03,"error: invalid date ""00:00 """,CHA,LPC
-479,2019-01-29,"error: invalid date ""00:00 """,PAO,HLE
-480,2019-02-16,"error: invalid date ""00:00 """,DWB,DNN
-481,2019-10-20,"error: invalid date ""00:00 """,YIO,KFS
-482,2019-12-26,"error: invalid date ""00:00 """,FTW,FYJ
-483,2019-07-24,"error: invalid date ""00:00 """,FAZ,PFN
-484,2019-08-12,"error: invalid date ""00:00 """,STE,PIA
-485,2019-03-05,"error: invalid date ""00:00 """,NNX,AIK
-486,2019-03-28,"error: invalid date ""00:00 """,BQJ,MSY
-487,2019-03-19,"error: invalid date ""00:00 """,GMB,KJH
-488,2019-10-17,"error: invalid date ""00:00 """,HND,SDX
-489,2019-09-30,"error: invalid date ""00:00 """,PIM,TSU
-490,2019-07-18,"error: invalid date ""00:00 """,MWF,SDT
-491,2019-01-23,"error: invalid date ""00:00 """,ZHY,BNB
-492,2019-10-17,"error: invalid date ""00:00 """,SIJ,BXK
-493,2019-08-08,"error: invalid date ""00:00 """,AEG,DVT
-494,2019-06-25,"error: invalid date ""00:00 """,RSS,SSE
-495,2019-06-15,"error: invalid date ""00:00 """,SNC,AZD
-496,2019-08-15,"error: invalid date ""00:00 """,HND,YOW
-497,2019-12-22,"error: invalid date ""00:00 """,CGY,UGA
-498,2019-12-14,"error: invalid date ""00:00 """,GBE,DEE
-499,2019-08-11,"error: invalid date ""00:00 """,ZAT,HAQ
-500,2020-01-09,"error: invalid date ""00:00 """,TPQ,LAE
-501,2019-01-28,"error: invalid date ""00:00 """,JUM,KRY
-502,2019-03-18,"error: invalid date ""00:00 """,YZH,TZL
-503,2019-05-11,"error: invalid date ""00:00 """,QSR,AYT
-504,2019-11-22,"error: invalid date ""00:00 """,VCD,LPU
-505,2019-05-26,"error: invalid date ""00:00 """,AMM,PFJ
-506,2019-12-16,"error: invalid date ""00:00 """,YGQ,VRO
-507,2019-01-31,"error: invalid date ""00:00 """,NME,PDO
-508,2019-01-16,"error: invalid date ""00:00 """,FXO,FBR
-509,2019-05-16,"error: invalid date ""00:00 """,YPX,BTV
-510,2019-11-30,"error: invalid date ""00:00 """,IKS,YHZ
-511,2019-12-14,"error: invalid date ""00:00 """,SMA,MDZ
-512,2019-06-23,"error: invalid date ""00:00 """,PAD,BHE
-513,2019-11-06,"error: invalid date ""00:00 """,MYW,HHI
-514,2019-10-14,"error: invalid date ""00:00 """,TJS,BWX
-515,2019-06-08,"error: invalid date ""00:00 """,QUO,WRE
-516,2019-12-20,"error: invalid date ""00:00 """,NAA,UGC
-517,2019-11-14,"error: invalid date ""00:00 """,NDG,CCX
-518,2019-07-30,"error: invalid date ""00:00 """,GMV,CIS
-519,2019-04-11,"error: invalid date ""00:00 """,XPK,HVB
-520,2019-07-06,"error: invalid date ""00:00 """,AFW,ITM
-521,2019-03-03,"error: invalid date ""00:00 """,ZQW,CNF
-522,2019-09-11,"error: invalid date ""00:00 """,LMP,COO
-523,2019-08-02,"error: invalid date ""00:00 """,SOZ,NAW
-524,2019-10-11,"error: invalid date ""00:00 """,LBG,OYK
-525,2019-10-06,"error: invalid date ""00:00 """,IRD,PNZ
-526,2019-11-13,"error: invalid date ""00:00 """,SNR,KJI
-527,2019-06-10,"error: invalid date ""00:00 """,OVG,QRR
-528,2019-06-24,"error: invalid date ""00:00 """,BNN,KDC
-529,2019-07-15,"error: invalid date ""00:00 """,ESN,WNS
-530,2019-07-09,"error: invalid date ""00:00 """,SEU,CGZ
-531,2019-01-30,"error: invalid date ""00:00 """,MHH,MWF
-532,2019-01-15,"error: invalid date ""00:00 """,LEQ,HOR
-533,2019-08-07,"error: invalid date ""00:00 """,PSP,NGD
-534,2019-01-23,"error: invalid date ""00:00 """,CRQ,IFN
-535,2019-09-20,"error: invalid date ""00:00 """,PYY,YSC
-536,2019-01-31,"error: invalid date ""00:00 """,BCT,KTT
-537,2019-08-10,"error: invalid date ""00:00 """,BTE,TAY
-538,2019-12-16,"error: invalid date ""00:00 """,LCQ,HPB
-539,2019-08-18,"error: invalid date ""00:00 """,KIN,GUT
-540,2019-09-21,"error: invalid date ""00:00 """,TSX,DNP
-541,2019-05-27,"error: invalid date ""00:00 """,OIM,CCL
-542,2019-05-07,"error: invalid date ""00:00 """,ACP,ACX
-543,2019-08-03,"error: invalid date ""00:00 """,MAA,LOT
-544,2019-10-24,"error: invalid date ""00:00 """,YGV,YXL
-545,2019-12-12,"error: invalid date ""00:00 """,MYE,LYM
-546,2019-11-20,"error: invalid date ""00:00 """,SPG,AZR
-547,2019-07-15,"error: invalid date ""00:00 """,SVI,MSU
-548,2019-07-22,"error: invalid date ""00:00 """,RGO,JNI
-549,2019-02-02,"error: invalid date ""00:00 """,PPI,ONQ
-550,2019-01-21,"error: invalid date ""00:00 """,TNJ,COK
-551,2019-10-03,"error: invalid date ""00:00 """,CTN,REZ
-552,2019-04-20,"error: invalid date ""00:00 """,PAD,OFF
-553,2019-06-02,"error: invalid date ""00:00 """,MTN,LVO
-554,2019-07-26,"error: invalid date ""00:00 """,NAT,FAZ
-555,2019-07-28,"error: invalid date ""00:00 """,CCM,AAN
-556,2019-07-12,"error: invalid date ""00:00 """,NGF,CFB
-557,2019-05-05,"error: invalid date ""00:00 """,ATB,OXF
-558,2019-06-28,"error: invalid date ""00:00 """,APA,NGZ
-559,2019-01-14,"error: invalid date ""00:00 """,JSY,TBW
-560,2020-01-04,"error: invalid date ""00:00 """,YBT,PAL
-561,2019-03-30,"error: invalid date ""00:00 """,BUT,QQT
-562,2019-05-25,"error: invalid date ""00:00 """,YZY,PAA
-563,2019-08-01,"error: invalid date ""00:00 """,EHM,BNU
-564,2019-10-29,"error: invalid date ""00:00 """,MZM,LLK
-565,2019-05-17,"error: invalid date ""00:00 """,MIA,GSQ
-566,2019-05-06,"error: invalid date ""00:00 """,PAJ,BWO
-567,2019-10-21,"error: invalid date ""00:00 """,CNN,ACK
-568,2019-06-16,"error: invalid date ""00:00 """,RIV,JOS
-569,2019-09-12,"error: invalid date ""00:00 """,AKV,DUT
-570,2019-01-23,"error: invalid date ""00:00 """,DIE,YVB
-571,2019-04-15,"error: invalid date ""00:00 """,KFS,ITO
-572,2019-08-12,"error: invalid date ""00:00 """,GYL,RNS
-573,2019-02-03,"error: invalid date ""00:00 """,MPV,NZJ
-574,2019-04-22,"error: invalid date ""00:00 """,WHP,BSG
-575,2019-01-27,"error: invalid date ""00:00 """,GUW,PIL
-576,2019-07-21,"error: invalid date ""00:00 """,SVI,TCN
-577,2019-04-29,"error: invalid date ""00:00 """,NKC,XME
-578,2019-05-22,"error: invalid date ""00:00 """,DIJ,CMH
-579,2019-06-06,"error: invalid date ""00:00 """,LUH,PRN
-580,2019-02-26,"error: invalid date ""00:00 """,GFO,MQX
-581,2019-12-10,"error: invalid date ""00:00 """,MCF,GOP
-582,2019-12-17,"error: invalid date ""00:00 """,MVT,SYQ
-583,2020-01-02,"error: invalid date ""00:00 """,PGF,NHD
-584,2019-05-29,"error: invalid date ""00:00 """,OAM,APL
-585,2019-12-03,"error: invalid date ""00:00 """,SPU,SHO
-586,2019-06-09,"error: invalid date ""00:00 """,PAG,NZJ
-587,2019-07-29,"error: invalid date ""00:00 """,MIE,PTP
-588,2019-08-13,"error: invalid date ""00:00 """,KGT,ROS
-589,2019-08-09,"error: invalid date ""00:00 """,BHS,CPC
-590,2019-05-21,"error: invalid date ""00:00 """,SOB,TDL
-591,2019-03-12,"error: invalid date ""00:00 """,TYN,PDT
-592,2019-04-16,"error: invalid date ""00:00 """,HGI,AAT
-593,2019-05-08,"error: invalid date ""00:00 """,FLP,VNO
-594,2019-12-14,"error: invalid date ""00:00 """,SIK,ABZ
-595,2019-11-24,"error: invalid date ""00:00 """,CHY,JAP
-596,2019-08-14,"error: invalid date ""00:00 """,RGK,KGO
-597,2019-08-07,"error: invalid date ""00:00 """,YRI,NGD
-598,2019-02-23,"error: invalid date ""00:00 """,SKK,BFT
-599,2019-05-05,"error: invalid date ""00:00 """,ADF,SVH
-600,2019-04-21,"error: invalid date ""00:00 """,WHU,LII
-601,2019-10-07,"error: invalid date ""00:00 """,ADU,NOJ
-602,2019-11-03,"error: invalid date ""00:00 """,GET,KPV
-603,2019-01-30,"error: invalid date ""00:00 """,AIU,KXF
-604,2019-07-14,"error: invalid date ""00:00 """,TKT,RDC
-605,2019-10-03,"error: invalid date ""00:00 """,NLP,PGX
-606,2019-09-15,"error: invalid date ""00:00 """,BZA,NOJ
-607,2019-07-25,"error: invalid date ""00:00 """,ETH,SOF
-608,2019-12-17,"error: invalid date ""00:00 """,JDF,HNY
-609,2019-02-15,"error: invalid date ""00:00 """,MTK,WYN
-610,2019-05-09,"error: invalid date ""00:00 """,SVI,AIR
-611,2019-05-30,"error: invalid date ""00:00 """,PPA,IHR
-612,2019-04-22,"error: invalid date ""00:00 """,DYA,PPE
-613,2019-05-14,"error: invalid date ""00:00 """,BFM,ERH
-614,2019-03-21,"error: invalid date ""00:00 """,ABI,JNI
-615,2019-01-13,"error: invalid date ""00:00 """,TEE,YTA
-616,2019-04-27,"error: invalid date ""00:00 """,KVD,YGL
-617,2019-10-26,"error: invalid date ""00:00 """,HTV,VME
-618,2019-04-24,"error: invalid date ""00:00 """,FUO,GYR
-619,2019-04-22,"error: invalid date ""00:00 """,HWD,SQN
-620,2019-01-29,"error: invalid date ""00:00 """,TGA,LHK
-621,2019-07-30,"error: invalid date ""00:00 """,WLS,MNJ
-622,2019-08-28,"error: invalid date ""00:00 """,GWO,YEK
-623,2019-06-18,"error: invalid date ""00:00 """,VOZ,KEM
-624,2019-06-03,"error: invalid date ""00:00 """,SPC,PCB
-625,2019-12-23,"error: invalid date ""00:00 """,JMJ,ZGR
-626,2019-05-04,"error: invalid date ""00:00 """,CCH,AXA
-627,2019-01-16,"error: invalid date ""00:00 """,GBE,LBY
-628,2019-05-18,"error: invalid date ""00:00 """,DIE,CNL
-629,2019-12-11,"error: invalid date ""00:00 """,SVG,YBK
-630,2019-03-12,"error: invalid date ""00:00 """,CUC,LOT
-631,2019-08-18,"error: invalid date ""00:00 """,ICC,BAH
-632,2019-10-29,"error: invalid date ""00:00 """,YOP,ADY
-633,2019-12-08,"error: invalid date ""00:00 """,SHD,KUU
-634,2019-05-09,"error: invalid date ""00:00 """,SNS,BOG
-635,2019-05-20,"error: invalid date ""00:00 """,NPO,ABI
-636,2019-11-18,"error: invalid date ""00:00 """,DNV,ELU
-637,2019-10-31,"error: invalid date ""00:00 """,ILR,PWM
-638,2019-11-09,"error: invalid date ""00:00 """,PAT,XME
-639,2019-06-01,"error: invalid date ""00:00 """,GOH,OUD
-640,2019-06-19,"error: invalid date ""00:00 """,DBO,LOE
-641,2019-08-01,"error: invalid date ""00:00 """,VOH,MAA
-642,2019-07-02,"error: invalid date ""00:00 """,CLT,KTI
-643,2019-01-17,"error: invalid date ""00:00 """,NGX,FKQ
-644,2019-02-05,"error: invalid date ""00:00 """,GIL,SHW
-645,2019-10-24,"error: invalid date ""00:00 """,CCI,MYL
-646,2019-11-24,"error: invalid date ""00:00 """,YCH,SEM
-647,2019-11-08,"error: invalid date ""00:00 """,FRE,GYN
-648,2019-08-12,"error: invalid date ""00:00 """,MLM,ULP
-649,2020-01-01,"error: invalid date ""00:00 """,CSM,XQP
-650,2019-10-09,"error: invalid date ""00:00 """,KQA,SWC
-651,2019-05-31,"error: invalid date ""00:00 """,HUZ,XMW
-652,2019-02-08,"error: invalid date ""00:00 """,GXF,TKJ
-653,2019-02-21,"error: invalid date ""00:00 """,POW,YRQ
-654,2019-11-02,"error: invalid date ""00:00 """,DCN,BUW
-655,2019-07-19,"error: invalid date ""00:00 """,ESC,UYU
-656,2019-10-31,"error: invalid date ""00:00 """,DIR,NNM
-657,2019-04-04,"error: invalid date ""00:00 """,SYR,ZYL
-658,2019-12-12,"error: invalid date ""00:00 """,RSH,SFA
-659,2019-10-03,"error: invalid date ""00:00 """,YOL,LAO
-660,2019-12-18,"error: invalid date ""00:00 """,AIP,TMP
-661,2019-03-16,"error: invalid date ""00:00 """,UOX,WSP
-662,2019-12-20,"error: invalid date ""00:00 """,CMJ,ISG
-663,2019-03-26,"error: invalid date ""00:00 """,UUD,SCV
-664,2019-12-07,"error: invalid date ""00:00 """,PNY,DRG
-665,2019-02-01,"error: invalid date ""00:00 """,MRR,ESC
-666,2019-05-10,"error: invalid date ""00:00 """,GTF,LJN
-667,2019-11-22,"error: invalid date ""00:00 """,NBO,UEL
-668,2019-05-13,"error: invalid date ""00:00 """,DZO,SEK
-669,2019-05-23,"error: invalid date ""00:00 """,CHG,BPE
-670,2020-01-11,"error: invalid date ""00:00 """,LJN,AZS
-671,2019-10-17,"error: invalid date ""00:00 """,XVS,YGB
-672,2019-07-31,"error: invalid date ""00:00 """,MCY,XSD
-673,2019-02-28,"error: invalid date ""00:00 """,FMA,SHX
-674,2019-10-08,"error: invalid date ""00:00 """,OAS,GVA
-675,2019-09-20,"error: invalid date ""00:00 """,ONQ,HOH
-676,2019-01-13,"error: invalid date ""00:00 """,DSA,SXX
-677,2019-04-02,"error: invalid date ""00:00 """,MRG,PBI
-678,2019-11-03,"error: invalid date ""00:00 """,TMA,PEV
-679,2019-12-14,"error: invalid date ""00:00 """,ACC,LHE
-680,2019-08-12,"error: invalid date ""00:00 """,ALW,AEG
-681,2019-06-16,"error: invalid date ""00:00 """,CGY,IRZ
-682,2019-09-23,"error: invalid date ""00:00 """,JNU,SUN
-683,2019-08-17,"error: invalid date ""00:00 """,BWU,FAF
-684,2019-02-25,"error: invalid date ""00:00 """,AFW,TBP
-685,2019-12-04,"error: invalid date ""00:00 """,REN,SGV
-686,2019-10-04,"error: invalid date ""00:00 """,CRW,ZQN
-687,2019-07-18,"error: invalid date ""00:00 """,CHG,SGQ
-688,2019-08-06,"error: invalid date ""00:00 """,MPY,COG
-689,2019-05-17,"error: invalid date ""00:00 """,GAF,JUL
-690,2019-05-03,"error: invalid date ""00:00 """,PLH,BIN
-691,2019-03-29,"error: invalid date ""00:00 """,AQG,ESR
-692,2019-06-07,"error: invalid date ""00:00 """,EML,DOV
-693,2019-06-13,"error: invalid date ""00:00 """,HFD,ACX
-694,2019-09-23,"error: invalid date ""00:00 """,BPH,PBQ
-695,2019-02-06,"error: invalid date ""00:00 """,GFL,RIS
-696,2019-01-27,"error: invalid date ""00:00 """,CAI,YWM
-697,2019-05-27,"error: invalid date ""00:00 """,CRI,APG
-698,2019-07-02,"error: invalid date ""00:00 """,YOO,DWA
-699,2019-04-30,"error: invalid date ""00:00 """,EBM,YMH
-700,2019-06-14,"error: invalid date ""00:00 """,FBD,TGH
-701,2019-03-13,"error: invalid date ""00:00 """,CMI,OOK
-702,2019-10-13,"error: invalid date ""00:00 """,NZE,NVP
-703,2019-05-03,"error: invalid date ""00:00 """,BAB,RVE
-704,2019-10-11,"error: invalid date ""00:00 """,UTM,ONQ
-705,2019-08-04,"error: invalid date ""00:00 """,DIN,YQY
-706,2019-04-21,"error: invalid date ""00:00 """,PAB,TLQ
-707,2019-06-12,"error: invalid date ""00:00 """,ZOS,PBZ
-708,2020-01-06,"error: invalid date ""00:00 """,SNY,SEE
-709,2019-10-20,"error: invalid date ""00:00 """,RDN,DLA
-710,2019-01-17,"error: invalid date ""00:00 """,ART,BTK
-711,2019-03-11,"error: invalid date ""00:00 """,BUT,NRL
-712,2019-09-11,"error: invalid date ""00:00 """,MFU,YBC
-713,2019-09-13,"error: invalid date ""00:00 """,PNI,SQQ
-714,2019-09-08,"error: invalid date ""00:00 """,MAG,PAL
-715,2019-07-31,"error: invalid date ""00:00 """,YBO,PZA
-716,2019-01-27,"error: invalid date ""00:00 """,JFK,ROB
-717,2019-07-16,"error: invalid date ""00:00 """,YAC,GZW
-718,2019-06-13,"error: invalid date ""00:00 """,YYF,NGD
-719,2019-08-09,"error: invalid date ""00:00 """,KAC,YAC
-720,2019-06-28,"error: invalid date ""00:00 """,KSL,CAX
-721,2019-08-25,"error: invalid date ""00:00 """,UBJ,RDB
-722,2019-10-03,"error: invalid date ""00:00 """,PPA,MRZ
-723,2019-07-14,"error: invalid date ""00:00 """,LGP,GNZ
-724,2019-11-20,"error: invalid date ""00:00 """,VHY,AIN
-725,2019-02-07,"error: invalid date ""00:00 """,CSY,CCK
-726,2019-08-03,"error: invalid date ""00:00 """,RAC,JSR
-727,2019-01-29,"error: invalid date ""00:00 """,LOS,ORE
-728,2019-03-15,"error: invalid date ""00:00 """,MSE,OSK
-729,2019-03-11,"error: invalid date ""00:00 """,NVK,SDX
-730,2019-08-05,"error: invalid date ""00:00 """,VLG,AZA
-731,2019-08-04,"error: invalid date ""00:00 """,KJA,RCL
-732,2019-04-26,"error: invalid date ""00:00 """,TIJ,NTE
-733,2019-03-28,"error: invalid date ""00:00 """,PZE,WDR
-734,2019-03-08,"error: invalid date ""00:00 """,AGH,BFL
-735,2019-10-13,"error: invalid date ""00:00 """,ADK,LUO
-736,2019-04-09,"error: invalid date ""00:00 """,ADH,LTN
-737,2019-01-13,"error: invalid date ""00:00 """,PVG,CIW
-738,2019-03-04,"error: invalid date ""00:00 """,TIY,RPN
-739,2019-11-12,"error: invalid date ""00:00 """,RBX,SSR
-740,2019-11-10,"error: invalid date ""00:00 """,FLO,ADH
-741,2019-09-09,"error: invalid date ""00:00 """,RAZ,ATC
-742,2019-05-30,"error: invalid date ""00:00 """,LKO,VBY
-743,2019-11-17,"error: invalid date ""00:00 """,PSO,SEM
-744,2019-10-02,"error: invalid date ""00:00 """,LRU,KUG
-745,2019-12-20,"error: invalid date ""00:00 """,CCF,GSJ
-746,2019-07-18,"error: invalid date ""00:00 """,LWO,ATD
-747,2019-06-19,"error: invalid date ""00:00 """,ROS,ECH
-748,2019-08-25,"error: invalid date ""00:00 """,KIN,JAS
-749,2019-05-24,"error: invalid date ""00:00 """,PHS,KTA
-750,2019-05-09,"error: invalid date ""00:00 """,DTI,SHJ
-751,2019-03-29,"error: invalid date ""00:00 """,PIK,TMG
-752,2019-03-13,"error: invalid date ""00:00 """,API,TOG
-753,2020-01-10,"error: invalid date ""00:00 """,USM,AMI
-754,2019-02-22,"error: invalid date ""00:00 """,PGZ,CNG
-755,2019-10-20,"error: invalid date ""00:00 """,FWA,FKL
-756,2019-05-06,"error: invalid date ""00:00 """,PEA,TOC
-757,2019-02-23,"error: invalid date ""00:00 """,NYR,BUP
-758,2019-05-18,"error: invalid date ""00:00 """,NMT,FAO
-759,2019-02-20,"error: invalid date ""00:00 """,STZ,KVL
-760,2019-02-01,"error: invalid date ""00:00 """,STP,AKN
-761,2019-10-07,"error: invalid date ""00:00 """,YFB,PNV
-762,2019-10-04,"error: invalid date ""00:00 """,UBT,RCU
-763,2019-10-14,"error: invalid date ""00:00 """,WJF,TAK
-764,2019-03-21,"error: invalid date ""00:00 """,YPY,LFW
-765,2019-06-18,"error: invalid date ""00:00 """,SCK,OES
-766,2019-03-05,"error: invalid date ""00:00 """,VIT,KAO
-767,2019-05-09,"error: invalid date ""00:00 """,YLR,LVP
-768,2019-06-15,"error: invalid date ""00:00 """,HMR,OFF
-769,2019-04-19,"error: invalid date ""00:00 """,KVA,ENK
-770,2019-12-29,"error: invalid date ""00:00 """,SLP,SZA
-771,2019-01-30,"error: invalid date ""00:00 """,SSA,TRD
-772,2019-11-03,"error: invalid date ""00:00 """,LBU,GNB
-773,2020-01-08,"error: invalid date ""00:00 """,BOH,IGB
-774,2019-07-20,"error: invalid date ""00:00 """,XCZ,KOK
-775,2019-04-28,"error: invalid date ""00:00 """,MGE,KRI
-776,2019-04-07,"error: invalid date ""00:00 """,RDD,ALX
-777,2019-08-12,"error: invalid date ""00:00 """,BJX,NYM
-778,2019-09-18,"error: invalid date ""00:00 """,AET,AOT
-779,2019-05-08,"error: invalid date ""00:00 """,YMO,KDT
-780,2019-03-19,"error: invalid date ""00:00 """,ATZ,TPF
-781,2020-01-10,"error: invalid date ""00:00 """,FTA,VVO
-782,2019-11-11,"error: invalid date ""00:00 """,BRN,MKC
-783,2019-03-31,"error: invalid date ""00:00 """,YQS,KMP
-784,2019-03-22,"error: invalid date ""00:00 """,MHU,UEL
-785,2019-03-13,"error: invalid date ""00:00 """,CGH,CAX
-786,2019-01-25,"error: invalid date ""00:00 """,WKB,NFO
-787,2019-10-11,"error: invalid date ""00:00 """,APN,AKH
-788,2019-01-22,"error: invalid date ""00:00 """,TAG,GUQ
-789,2019-09-08,"error: invalid date ""00:00 """,AEG,OKC
-790,2019-11-28,"error: invalid date ""00:00 """,PMW,MTZ
-791,2019-12-04,"error: invalid date ""00:00 """,HAO,FBE
-792,2019-04-12,"error: invalid date ""00:00 """,CCH,KSU
-793,2019-04-16,"error: invalid date ""00:00 """,URT,NNR
-794,2019-05-15,"error: invalid date ""00:00 """,VNA,TOB
-795,2019-08-29,"error: invalid date ""00:00 """,EIS,NYK
-796,2019-01-25,"error: invalid date ""00:00 """,SAK,UTT
-797,2019-07-28,"error: invalid date ""00:00 """,ZFM,SHG
-798,2019-02-20,"error: invalid date ""00:00 """,TQD,SZK
-799,2019-07-19,"error: invalid date ""00:00 """,SVH,GUU
-800,2019-03-01,"error: invalid date ""00:00 """,SJE,VCL
-801,2019-10-07,"error: invalid date ""00:00 """,ANQ,LGW
-802,2019-09-11,"error: invalid date ""00:00 """,JOE,AKJ
-803,2019-03-10,"error: invalid date ""00:00 """,UIH,JCH
-804,2019-04-22,"error: invalid date ""00:00 """,SGX,BDT
-805,2019-03-27,"error: invalid date ""00:00 """,WIR,SCN
-806,2019-11-05,"error: invalid date ""00:00 """,AQA,HUQ
-807,2019-10-27,"error: invalid date ""00:00 """,EDR,PPE
-808,2019-04-17,"error: invalid date ""00:00 """,LAZ,BPY
-809,2019-07-14,"error: invalid date ""00:00 """,PBP,GMR
-810,2019-05-03,"error: invalid date ""00:00 """,ITP,WSZ
-811,2019-06-02,"error: invalid date ""00:00 """,LHS,STG
-812,2019-04-28,"error: invalid date ""00:00 """,NPO,GNV
-813,2019-02-06,"error: invalid date ""00:00 """,LBQ,HIO
-814,2019-03-02,"error: invalid date ""00:00 """,CCY,MMU
-815,2019-09-29,"error: invalid date ""00:00 """,DPL,ANP
-816,2019-09-16,"error: invalid date ""00:00 """,ADJ,NUL
-817,2019-07-19,"error: invalid date ""00:00 """,AKR,GUW
-818,2019-05-28,"error: invalid date ""00:00 """,DWA,CTS
-819,2019-07-03,"error: invalid date ""00:00 """,LNB,OME
-820,2019-09-18,"error: invalid date ""00:00 """,MAK,LSH
-821,2019-02-12,"error: invalid date ""00:00 """,VAS,OKI
-822,2019-02-10,"error: invalid date ""00:00 """,DNQ,CXA
-823,2019-10-16,"error: invalid date ""00:00 """,INW,DLA
-824,2019-06-26,"error: invalid date ""00:00 """,BJH,ENA
-825,2019-10-08,"error: invalid date ""00:00 """,FGI,YWS
-826,2019-12-09,"error: invalid date ""00:00 """,UNK,WKA
-827,2019-11-14,"error: invalid date ""00:00 """,HEL,SVL
-828,2019-02-06,"error: invalid date ""00:00 """,SVU,GAO
-829,2019-03-27,"error: invalid date ""00:00 """,SFD,MEY
-830,2019-05-17,"error: invalid date ""00:00 """,AKB,TUP
-831,2019-03-07,"error: invalid date ""00:00 """,TVA,TAS
-832,2019-12-28,"error: invalid date ""00:00 """,ATW,SSN
-833,2019-05-29,"error: invalid date ""00:00 """,GDW,SQL
-834,2020-01-08,"error: invalid date ""00:00 """,YGP,USH
-835,2019-12-18,"error: invalid date ""00:00 """,KOA,FON
-836,2019-06-05,"error: invalid date ""00:00 """,TCN,YQM
-837,2019-03-31,"error: invalid date ""00:00 """,EAM,GML
-838,2019-03-14,"error: invalid date ""00:00 """,OAG,BAH
-839,2020-01-05,"error: invalid date ""00:00 """,KKW,BUJ
-840,2019-12-29,"error: invalid date ""00:00 """,ZAH,CMX
-841,2019-03-02,"error: invalid date ""00:00 """,ACD,SRG
-842,2019-08-23,"error: invalid date ""00:00 """,YZP,VLN
-843,2019-10-22,"error: invalid date ""00:00 """,TTU,YTY
-844,2019-08-03,"error: invalid date ""00:00 """,TBZ,NOZ
-845,2019-07-13,"error: invalid date ""00:00 """,VLV,POI
-846,2019-04-09,"error: invalid date ""00:00 """,KBZ,MJN
-847,2019-10-03,"error: invalid date ""00:00 """,BUS,TCQ
-848,2019-07-18,"error: invalid date ""00:00 """,KMX,MEK
-849,2019-10-30,"error: invalid date ""00:00 """,ELF,LVO
-850,2019-07-02,"error: invalid date ""00:00 """,RUI,EBG
-851,2019-11-27,"error: invalid date ""00:00 """,ELS,ELD
-852,2019-09-05,"error: invalid date ""00:00 """,ROP,ETM
-853,2019-07-11,"error: invalid date ""00:00 """,MHK,HSV
-854,2019-05-29,"error: invalid date ""00:00 """,WEF,ADA
-855,2020-01-06,"error: invalid date ""00:00 """,WAI,CBN
-856,2019-04-06,"error: invalid date ""00:00 """,DU9,MXX
-857,2019-07-31,"error: invalid date ""00:00 """,KVG,SUB
-858,2019-03-07,"error: invalid date ""00:00 """,YSN,SLQ
-859,2019-04-22,"error: invalid date ""00:00 """,IHC,GBZ
-860,2019-01-20,"error: invalid date ""00:00 """,SGY,TOW
-861,2019-07-16,"error: invalid date ""00:00 """,ISJ,MSO
-862,2019-09-13,"error: invalid date ""00:00 """,YVZ,VIE
-863,2019-02-08,"error: invalid date ""00:00 """,TJI,FME
-864,2019-08-20,"error: invalid date ""00:00 """,AGB,KEW
-865,2019-07-25,"error: invalid date ""00:00 """,VKG,LGB
-866,2019-04-25,"error: invalid date ""00:00 """,RKZ,KDA
-867,2019-06-27,"error: invalid date ""00:00 """,EMA,LLY
-868,2019-01-25,"error: invalid date ""00:00 """,SOT,LKB
-869,2019-06-01,"error: invalid date ""00:00 """,PRG,YXU
-870,2019-06-04,"error: invalid date ""00:00 """,NDU,OSM
-871,2019-08-10,"error: invalid date ""00:00 """,DIG,KVK
-872,2020-01-09,"error: invalid date ""00:00 """,HVD,TPC
-873,2019-06-26,"error: invalid date ""00:00 """,LDE,KVG
-874,2019-08-01,"error: invalid date ""00:00 """,APG,LPC
-875,2019-06-25,"error: invalid date ""00:00 """,TKF,SYM
-876,2019-05-17,"error: invalid date ""00:00 """,SWD,YXZ
-877,2019-07-28,"error: invalid date ""00:00 """,OZG,HMO
-878,2019-05-21,"error: invalid date ""00:00 """,YNB,BUC
-879,2019-03-27,"error: invalid date ""00:00 """,PUW,MNX
-880,2019-11-04,"error: invalid date ""00:00 """,YEC,PKA
-881,2020-01-03,"error: invalid date ""00:00 """,THZ,FLN
-882,2019-01-21,"error: invalid date ""00:00 """,KIT,BDJ
-883,2019-09-13,"error: invalid date ""00:00 """,HSK,AJL
-884,2019-08-11,"error: invalid date ""00:00 """,HTA,LYG
-885,2019-04-13,"error: invalid date ""00:00 """,ZTB,FKL
-886,2019-05-19,"error: invalid date ""00:00 """,KFG,SGU
-887,2019-10-10,"error: invalid date ""00:00 """,OTU,ILZ
-888,2019-12-05,"error: invalid date ""00:00 """,TYF,SZV
-889,2019-03-10,"error: invalid date ""00:00 """,WCH,LXR
-890,2019-04-02,"error: invalid date ""00:00 """,REN,JIM
-891,2019-05-13,"error: invalid date ""00:00 """,HSZ,DRE
-892,2019-06-01,"error: invalid date ""00:00 """,SQR,DAC
-893,2019-08-27,"error: invalid date ""00:00 """,PQC,HDI
-894,2019-12-24,"error: invalid date ""00:00 """,WGE,BIQ
-895,2019-11-27,"error: invalid date ""00:00 """,FOM,LGS
-896,2019-01-19,"error: invalid date ""00:00 """,JIU,LLW
-897,2019-04-28,"error: invalid date ""00:00 """,AMS,HFS
-898,2019-02-18,"error: invalid date ""00:00 """,HYV,PET
-899,2019-03-29,"error: invalid date ""00:00 """,HSK,MKS
-900,2019-04-10,"error: invalid date ""00:00 """,YHF,AWZ
-901,2019-08-14,"error: invalid date ""00:00 """,SXK,SMV
-902,2019-12-01,"error: invalid date ""00:00 """,GUW,VIR
-903,2019-07-26,"error: invalid date ""00:00 """,ORV,TUR
-904,2019-10-27,"error: invalid date ""00:00 """,CRM,LNY
-905,2020-01-03,"error: invalid date ""00:00 """,MIK,LVM
-906,2019-12-19,"error: invalid date ""00:00 """,BSF,ATF
-907,2019-05-21,"error: invalid date ""00:00 """,IVL,KJI
-908,2019-09-24,"error: invalid date ""00:00 """,BKD,YRI
-909,2019-08-02,"error: invalid date ""00:00 """,BPM,TKU
-910,2019-12-03,"error: invalid date ""00:00 """,FTU,HMI
-911,2019-05-01,"error: invalid date ""00:00 """,IRC,RZA
-912,2019-09-19,"error: invalid date ""00:00 """,TBZ,CJN
-913,2019-02-20,"error: invalid date ""00:00 """,RGI,PYH
-914,2019-06-07,"error: invalid date ""00:00 """,ZBO,PMF
-915,2019-12-20,"error: invalid date ""00:00 """,YTF,GBE
-916,2019-12-02,"error: invalid date ""00:00 """,MDE,POG
-917,2019-01-20,"error: invalid date ""00:00 """,DYL,BXP
-918,2019-06-22,"error: invalid date ""00:00 """,DUS,PHC
-919,2019-02-04,"error: invalid date ""00:00 """,BEU,KDY
-920,2019-12-03,"error: invalid date ""00:00 """,ORG,BOM
-921,2019-11-16,"error: invalid date ""00:00 """,UUK,GLW
-922,2019-09-01,"error: invalid date ""00:00 """,KTI,LHW
-923,2019-10-16,"error: invalid date ""00:00 """,ABE,COE
-924,2019-02-06,"error: invalid date ""00:00 """,HSM,EDM
-925,2019-01-16,"error: invalid date ""00:00 """,TQS,AMH
-926,2019-07-16,"error: invalid date ""00:00 """,KVK,YGZ
-927,2019-04-11,"error: invalid date ""00:00 """,RVS,TTR
-928,2019-07-06,"error: invalid date ""00:00 """,APW,RDN
-929,2019-04-26,"error: invalid date ""00:00 """,MXH,PMI
-930,2019-10-06,"error: invalid date ""00:00 """,PTJ,NLG
-931,2019-05-02,"error: invalid date ""00:00 """,FIZ,HSL
-932,2019-04-23,"error: invalid date ""00:00 """,CYW,HPH
-933,2019-06-10,"error: invalid date ""00:00 """,BIA,RSL
-934,2019-07-07,"error: invalid date ""00:00 """,LPM,SUG
-935,2019-11-10,"error: invalid date ""00:00 """,LOE,HKN
-936,2019-05-23,"error: invalid date ""00:00 """,BDN,YYJ
-937,2019-10-27,"error: invalid date ""00:00 """,CPX,LCJ
-938,2019-03-05,"error: invalid date ""00:00 """,AVB,IPI
-939,2019-06-24,"error: invalid date ""00:00 """,PPM,YVT
-940,2019-12-06,"error: invalid date ""00:00 """,WGE,NZE
-941,2019-12-18,"error: invalid date ""00:00 """,KIJ,WMI
-942,2019-01-29,"error: invalid date ""00:00 """,ROZ,HTV
-943,2019-02-14,"error: invalid date ""00:00 """,IST,AOP
-944,2019-04-05,"error: invalid date ""00:00 """,MLY,AKJ
-945,2019-04-16,"error: invalid date ""00:00 """,BRW,FAZ
-946,2019-11-10,"error: invalid date ""00:00 """,HVD,PDG
-947,2019-09-02,"error: invalid date ""00:00 """,QSC,YSL
-948,2019-01-29,"error: invalid date ""00:00 """,MSS,BKY
-949,2019-04-16,"error: invalid date ""00:00 """,ASH,SJD
-950,2019-05-09,"error: invalid date ""00:00 """,BGW,JAA
-951,2019-04-28,"error: invalid date ""00:00 """,THF,UTC
-952,2019-04-22,"error: invalid date ""00:00 """,VPN,HAA
-953,2019-07-10,"error: invalid date ""00:00 """,XKS,KHC
-954,2019-03-19,"error: invalid date ""00:00 """,TSA,DCY
-955,2019-09-15,"error: invalid date ""00:00 """,RUS,ZLO
-956,2019-05-25,"error: invalid date ""00:00 """,ZNA,LRF
-957,2019-02-19,"error: invalid date ""00:00 """,TRS,IXZ
-958,2019-05-25,"error: invalid date ""00:00 """,OAS,TQS
-959,2019-05-02,"error: invalid date ""00:00 """,JHW,GSE
-960,2019-04-05,"error: invalid date ""00:00 """,ILY,INW
-961,2019-08-08,"error: invalid date ""00:00 """,SKT,DTN
-962,2019-03-10,"error: invalid date ""00:00 """,OYK,GGW
-963,2019-11-21,"error: invalid date ""00:00 """,AAT,PAP
-964,2019-12-18,"error: invalid date ""00:00 """,THR,IDP
-965,2019-09-24,"error: invalid date ""00:00 """,PUS,GDW
-966,2019-05-08,"error: invalid date ""00:00 """,ZAD,CCN
-967,2019-09-15,"error: invalid date ""00:00 """,MAT,HNY
-968,2019-08-12,"error: invalid date ""00:00 """,NVS,QLR
-969,2019-09-13,"error: invalid date ""00:00 """,MUA,TPA
-970,2019-11-26,"error: invalid date ""00:00 """,LIS,MNF
-971,2019-01-17,"error: invalid date ""00:00 """,TGJ,ANI
-972,2019-11-07,"error: invalid date ""00:00 """,LSQ,LTS
-973,2019-11-02,"error: invalid date ""00:00 """,AYP,NSO
-974,2019-12-18,"error: invalid date ""00:00 """,HTU,TKF
-975,2019-12-05,"error: invalid date ""00:00 """,NTT,TCS
-976,2019-06-17,"error: invalid date ""00:00 """,ROT,YDL
-977,2019-08-13,"error: invalid date ""00:00 """,SST,CRK
-978,2019-03-29,"error: invalid date ""00:00 """,KTU,CHH
-979,2019-01-15,"error: invalid date ""00:00 """,IXZ,KLO
-980,2019-08-29,"error: invalid date ""00:00 """,MII,GDE
-981,2019-02-22,"error: invalid date ""00:00 """,DFW,TTR
-982,2019-03-10,"error: invalid date ""00:00 """,BUU,JKR
-983,2019-03-23,"error: invalid date ""00:00 """,MCG,WUH
-984,2019-08-28,"error: invalid date ""00:00 """,SAA,FRU
-985,2019-05-27,"error: invalid date ""00:00 """,WTA,IXE
-986,2019-01-30,"error: invalid date ""00:00 """,SLY,THU
-987,2019-07-07,"error: invalid date ""00:00 """,TIY,SDM
-988,2019-04-12,"error: invalid date ""00:00 """,SFA,AAL
-989,2019-12-21,"error: invalid date ""00:00 """,MOT,DVT
-990,2019-08-24,"error: invalid date ""00:00 """,PHS,KIH
-991,2019-05-09,"error: invalid date ""00:00 """,RMG,PNP
-992,2019-01-17,"error: invalid date ""00:00 """,FAI,AFS
-993,2019-06-15,"error: invalid date ""00:00 """,SLH,BHJ
-994,2019-09-21,"error: invalid date ""00:00 """,SDJ,XFN
-995,2019-09-25,"error: invalid date ""00:00 """,PYM,ERC
-996,2020-01-12,"error: invalid date ""00:00 """,PYH,BUS
-997,2019-10-12,"error: invalid date ""00:00 """,HLZ,WJU
-998,2019-04-23,"error: invalid date ""00:00 """,AUO,EKI
-999,2020-01-09,"error: invalid date ""00:00 """,WPB,BKW
-1000,2019-02-10,"error: invalid date ""00:00 """,PNK,GDZ
+1,2019-07-15,9:11,WMI,MTM
+2,2019-10-13,14:27,WTA,HSK
+3,2019-06-27,8:07,BED,YER
+4,2020-01-02,13:01,YOG,YCE
+5,2019-07-04,15:17,ENY,FKI
+6,2019-06-09,11:32,ATM,HSL
+7,2019-07-29,13:41,INN,DYG
+8,2019-09-10,4:31,FGU,KWG
+9,2019-10-31,3:50,YYZ,GML
+10,2019-03-01,6:36,RKV,YFO
+11,2019-07-28,1:14,ATQ,FHU
+12,2019-12-07,12:42,YBK,GCI
+13,2019-04-11,12:54,TGR,YWB
+14,2020-01-11,2:11,WDH,YKZ
+15,2019-11-15,6:44,RGI,RCY
+16,2019-05-12,16:51,MQN,KHN
+17,2019-07-21,1:20,GVX,GXY
+18,2019-09-26,11:20,HND,HXD
+19,2019-08-04,3:07,TRO,END
+20,2019-11-17,14:43,WKA,FLS
+21,2019-06-30,14:04,VRO,CAG
+22,2019-11-21,8:55,YYG,PIH
+23,2019-11-12,13:05,AVB,ROR
+24,2019-12-26,0:51,RDO,CUE
+25,2019-11-28,12:32,TPS,BID
+26,2019-03-21,15:15,PNY,BKS
+27,2019-01-13,6:01,IPC,CUA
+28,2019-01-14,2:20,KUN,PSO
+29,2019-05-23,10:10,VDP,SXR
+30,2019-02-14,13:59,BTK,UNN
+31,2019-08-28,4:56,FRU,SCY
+32,2019-10-01,10:32,LYX,COD
+33,2019-11-22,7:02,LNO,GPT
+34,2019-10-23,10:52,VRU,SDJ
+35,2019-12-17,1:37,BQS,RKD
+36,2019-07-11,8:10,IKL,LKG
+37,2019-10-26,11:50,BXN,RIY
+38,2019-09-26,12:10,CNP,PGK
+39,2019-06-23,14:44,EBL,GUY
+40,2019-11-21,1:02,MST,SNC
+41,2019-06-25,9:05,TEM,MWF
+42,2019-01-16,15:27,DWA,PDL
+43,2019-12-01,8:08,WEH,FZO
+44,2020-01-01,4:10,HLF,BJW
+45,2019-06-03,13:22,GRW,OSR
+46,2019-11-02,16:58,MFN,YMN
+47,2019-07-06,16:00,NLD,BBJ
+48,2019-06-11,15:47,YYH,BIS
+49,2019-02-07,6:54,MGF,CAF
+50,2019-11-26,11:57,BIF,NVI
+51,2019-07-21,5:48,PPW,BIY
+52,2020-01-07,10:18,NYA,PNR
+53,2019-12-21,8:12,LUM,HLA
+54,2019-10-21,14:32,SXK,GJR
+55,2019-05-22,12:24,WMR,PQQ
+56,2019-09-30,4:28,SZS,CKB
+57,2019-03-24,13:30,UKK,ICC
+58,2020-01-06,15:07,ELS,PMZ
+59,2019-10-23,1:50,BYH,GMP
+60,2019-12-05,14:45,GID,TRK
+61,2019-05-19,4:02,FUE,DGT
+62,2019-10-30,6:59,AMS,KTN
+63,2019-09-07,9:48,XBE,PAV
+64,2019-05-13,11:02,NDR,MON
+65,2019-09-07,13:09,ORX,CRL
+66,2019-01-25,10:30,BNA,PAQ
+67,2019-07-09,11:54,OCN,YNO
+68,2019-11-29,12:43,WIK,DRJ
+69,2019-05-12,8:29,ERC,YOL
+70,2019-11-21,2:22,STM,JNI
+71,2019-10-10,6:18,CUM,AMC
+72,2019-11-30,15:43,DUM,VRN
+73,2019-04-16,13:13,AUC,CNM
+74,2019-06-20,1:35,AOJ,TBT
+75,2019-11-10,4:24,NRA,JKL
+76,2019-01-29,14:16,PGX,EGN
+77,2019-07-20,9:27,RGT,PYE
+78,2019-01-24,10:02,KOO,QGQ
+79,2019-02-25,12:29,PNQ,PEM
+80,2019-06-29,6:40,XFW,NMS
+81,2019-05-28,9:20,ORK,TOT
+82,2019-08-28,6:36,EKN,CUN
+83,2019-02-14,1:07,WAW,DUR
+84,2019-01-20,5:28,RIA,PUJ
+85,2019-06-10,4:30,OAZ,BMV
+86,2019-02-02,6:46,HVA,LUA
+87,2019-03-30,11:23,MBX,HEX
+88,2019-06-18,6:03,MIV,UMS
+89,2019-11-05,4:06,VVO,QNC
+90,2019-02-26,12:17,LNS,ASP
+91,2019-07-22,13:32,IKA,MQC
+92,2019-11-23,2:25,LRM,VAS
+93,2019-09-24,4:54,BIO,ABL
+94,2019-07-31,15:34,BPN,XSC
+95,2019-05-03,5:52,FMN,RAM
+96,2019-08-28,8:29,ILU,YDN
+97,2019-10-09,11:51,KHJ,BMT
+98,2019-12-11,12:39,HDG,PLV
+99,2019-06-14,8:11,HHP,FEG
+100,2020-01-06,12:27,ALB,GEL
+101,2019-06-09,12:02,APN,TBG
+102,2019-11-19,7:47,MWX,CNQ
+103,2019-08-10,5:36,MMG,NAV
+104,2019-02-19,7:40,PIH,PNA
+105,2019-04-29,6:47,KET,YZE
+106,2019-05-03,8:40,UYN,BJB
+107,2019-05-19,3:24,UZU,ABI
+108,2019-05-22,2:25,LYE,MNS
+109,2019-10-03,10:17,CJC,UVF
+110,2019-07-26,4:29,RSU,ESG
+111,2019-03-22,7:39,HUF,PAH
+112,2019-09-13,1:19,CJB,YXH
+113,2019-10-03,11:37,KKA,RET
+114,2019-06-17,3:10,MCV,AGN
+115,2019-07-01,14:25,BQK,ASW
+116,2019-10-31,4:44,COG,EKT
+117,2019-09-11,3:25,HUF,BEB
+118,2019-04-21,15:30,URG,RRG
+119,2019-09-16,1:14,SOB,IMK
+120,2019-09-30,4:44,MKE,VBY
+121,2019-08-16,1:14,LWB,OJC
+122,2019-09-20,10:18,ADB,OLF
+123,2019-08-22,15:45,TBO,AOL
+124,2019-07-01,8:14,REA,AZN
+125,2019-01-16,1:01,NRB,NCS
+126,2019-09-27,7:06,LAM,VYS
+127,2019-07-10,15:00,SBK,KUO
+128,2019-03-08,3:16,SPU,DGO
+129,2019-12-13,16:09,TTD,QLD
+130,2019-08-26,5:30,LMM,GVR
+131,2019-02-05,1:27,CXR,KMP
+132,2019-01-25,12:02,MKY,KQA
+133,2019-12-30,2:22,VDY,MWC
+134,2019-04-16,3:08,SGI,RNN
+135,2019-09-18,5:23,ETM,KXE
+136,2019-04-30,2:29,TCL,MZB
+137,2020-01-12,3:07,XXN,GWY
+138,2019-11-30,4:39,AKH,LMO
+139,2019-10-13,1:34,EEN,TEC
+140,2019-10-04,6:39,SDP,HYD
+141,2019-07-05,10:15,DDC,CXL
+142,2019-10-13,9:42,PMY,VHZ
+143,2019-05-10,5:01,YBC,PYE
+144,2019-08-09,16:55,DCI,LVS
+145,2019-12-12,5:58,LBS,JIU
+146,2019-04-27,4:23,YAP,TRF
+147,2019-09-02,8:06,RDR,SOG
+148,2019-05-30,15:42,YMX,PPQ
+149,2019-04-25,7:33,BUT,NVP
+150,2019-06-07,2:02,JHW,KIX
+151,2019-05-18,14:01,HHN,AJN
+152,2019-08-27,8:37,JZH,ALS
+153,2019-02-17,7:16,RQW,MWA
+154,2019-03-12,8:51,SAA,AKP
+155,2019-05-20,11:15,PCN,KDA
+156,2019-11-10,4:06,AOC,APN
+157,2019-06-30,13:31,KMU,YRV
+158,2019-10-14,10:12,MNC,SXL
+159,2019-10-31,15:20,SIN,FOK
+160,2020-01-04,9:59,YEC,WJF
+161,2019-04-13,11:10,NST,PMR
+162,2019-11-14,16:46,LJG,VCP
+163,2019-03-05,4:41,GCI,IXK
+164,2019-02-19,12:32,BSX,YRL
+165,2019-11-11,8:57,LUM,EML
+166,2019-07-06,4:05,SJW,KEM
+167,2019-05-03,16:52,SUV,HIJ
+168,2019-01-13,3:46,MCG,LUG
+169,2019-02-22,12:23,KLZ,EZE
+170,2019-10-01,16:56,GRJ,SKG
+171,2019-04-27,4:47,LSP,UIK
+172,2020-01-09,9:02,AIS,HUO
+173,2019-11-06,8:17,MXL,AWA
+174,2019-03-11,8:39,IFJ,TBH
+175,2020-01-11,3:03,AEI,RVN
+176,2019-02-02,7:51,PUY,YYQ
+177,2019-11-22,0:45,CXO,ODB
+178,2019-08-15,4:51,XNA,DJE
+179,2019-07-27,5:33,PUY,GUY
+180,2019-07-03,4:57,YST,EGS
+181,2019-12-07,9:09,OCM,EZE
+182,2019-10-29,10:54,KSY,MTJ
+183,2019-12-19,5:35,BLA,OYA
+184,2019-08-15,14:46,CEK,ABA
+185,2019-01-29,12:25,KSJ,SUR
+186,2019-07-31,9:12,AMM,IRP
+187,2020-01-05,8:01,YKU,MTP
+188,2019-03-25,9:13,GZO,MLG
+189,2019-05-17,12:03,ZKE,IGT
+190,2019-05-17,1:52,NSO,KDT
+191,2019-05-16,15:36,PMV,MGW
+192,2019-10-11,4:59,SCN,WNN
+193,2019-01-27,8:42,XQP,DGO
+194,2019-03-16,12:39,VBY,WHP
+195,2019-05-25,1:21,DIL,PVG
+196,2020-01-01,4:01,ARB,DOH
+197,2019-02-21,5:33,LLA,KSL
+198,2019-01-20,14:38,GLH,KUK
+199,2019-03-06,4:47,HGD,MOI
+200,2019-05-23,14:36,HME,BMY
+201,2019-07-04,11:09,AAL,ERL
+202,2019-09-03,9:54,KSC,PIE
+203,2019-11-01,7:57,NBC,OWD
+204,2019-10-13,12:25,IPN,TEV
+205,2019-08-23,16:02,PSM,PBZ
+206,2019-04-20,13:33,OSU,HON
+207,2019-09-01,9:35,HYN,NSH
+208,2019-08-23,9:47,RJB,KHV
+209,2019-04-22,15:55,LIN,MCO
+210,2019-04-29,13:35,KTA,OYL
+211,2019-02-10,7:06,HOD,RAQ
+212,2019-10-29,8:32,MOU,GDT
+213,2019-03-22,6:44,CNQ,BOX
+214,2019-02-26,8:10,BJX,NPL
+215,2019-03-19,0:43,HLF,EYK
+216,2019-07-23,2:14,VRE,ODH
+217,2019-09-15,7:48,MEI,ZRH
+218,2019-12-03,15:05,JAP,YGX
+219,2019-08-16,5:54,MEN,BLG
+220,2019-02-21,15:15,YLY,REP
+221,2019-02-12,16:50,BBA,EGH
+222,2019-01-30,14:37,VIT,TAI
+223,2019-05-09,11:04,JMJ,FIZ
+224,2019-02-26,9:04,IMP,TSL
+225,2019-03-10,1:29,KTI,QGU
+226,2019-06-15,14:47,IIA,SVI
+227,2019-12-21,6:23,CDT,SOV
+228,2019-11-08,12:37,YXU,NUK
+229,2019-09-09,3:34,NHT,DBD
+230,2019-03-15,16:35,QLF,GYA
+231,2019-07-11,9:21,YSM,NAU
+232,2019-02-24,11:52,YEN,MBX
+233,2019-06-03,12:48,PYH,UMR
+234,2019-12-12,6:48,MPK,YGP
+235,2019-05-06,16:05,RJN,SJZ
+236,2019-11-22,16:22,VIT,VHY
+237,2019-06-05,5:08,QSZ,LIL
+238,2019-05-10,6:01,MKQ,GWT
+239,2019-03-03,10:10,GVX,OZZ
+240,2019-05-01,9:36,CNS,REL
+241,2019-01-30,15:49,YXH,ISP
+242,2019-12-28,11:19,AEB,NZH
+243,2019-03-05,8:05,JDO,KMV
+244,2019-11-18,7:46,SRJ,FOC
+245,2019-02-04,13:30,SEM,AAR
+246,2019-03-17,9:25,BTU,ANI
+247,2019-05-04,3:55,CPH,DLG
+248,2019-05-28,14:11,MLE,RBE
+249,2019-03-29,9:04,VGO,NAV
+250,2019-12-25,12:39,XTO,TYN
+251,2019-03-11,2:37,DAU,WGA
+252,2019-01-27,12:26,ABV,AZI
+253,2019-02-20,15:05,DOK,ZND
+254,2019-07-17,10:23,FNT,AKK
+255,2019-01-13,6:05,HWN,TEI
+256,2019-05-20,7:45,MWF,PDU
+257,2019-03-08,15:15,OSR,YHI
+258,2019-04-03,2:20,EFL,BJB
+259,2020-01-11,1:33,TAH,YEK
+260,2020-01-03,2:03,SBY,HCQ
+261,2019-03-03,16:45,YRT,MZO
+262,2019-05-08,15:35,JKR,LZC
+263,2019-04-25,12:33,PAM,AKX
+264,2019-04-11,0:35,PMF,BPM
+265,2019-03-06,13:52,AET,LBA
+266,2019-09-12,7:24,KOQ,UNN
+267,2019-11-01,13:14,CTN,MER
+268,2019-06-08,14:45,IIA,KLM
+269,2019-08-18,11:52,PSM,AZO
+270,2019-02-15,16:36,ANR,WFK
+271,2019-09-16,10:50,KRH,AAX
+272,2019-06-13,5:42,GON,RYK
+273,2019-02-19,9:54,GKL,TIU
+274,2019-05-03,6:25,DOV,BBA
+275,2019-12-07,0:12,BUO,GAI
+276,2019-09-26,11:53,YOJ,DHM
+277,2019-07-26,13:51,TTR,VDY
+278,2019-10-17,13:12,MIR,VST
+279,2019-06-05,1:29,AMC,CET
+280,2019-09-24,16:32,AEY,AAQ
+281,2019-11-28,12:08,PPN,CKZ
+282,2019-10-14,0:20,BUU,ADE
+283,2019-07-01,13:38,SKK,JSK
+284,2019-05-29,9:43,UAP,DPS
+285,2019-08-15,5:54,ABA,NBG
+286,2019-06-23,15:25,JYV,ZHI
+287,2019-10-20,0:37,PAM,STE
+288,2019-06-30,6:10,CMG,AFA
+289,2019-05-28,16:09,JFR,YEC
+290,2019-08-31,16:13,NLI,FLV
+291,2019-09-12,3:38,EPR,ANF
+292,2019-11-17,8:17,MRR,APG
+293,2019-10-12,7:01,UPP,YZZ
+294,2019-12-27,4:39,RVY,BUI
+295,2019-08-03,4:26,ARK,CCH
+296,2019-11-16,11:40,ENU,GID
+297,2019-01-18,3:13,PSM,LBT
+298,2019-12-08,5:25,YIH,LBS
+299,2019-10-18,0:06,WJF,XJM
+300,2019-04-11,15:23,CCJ,SAB
+301,2019-03-19,2:24,VDP,NDG
+302,2019-02-27,10:13,ENT,BFH
+303,2019-07-27,9:58,YMM,DCU
+304,2019-06-17,10:26,TIQ,CGI
+305,2019-04-27,9:13,YFS,BJU
+306,2019-03-18,8:50,GBK,PPI
+307,2019-02-27,3:04,KEP,DNP
+308,2019-09-04,3:50,CVC,INV
+309,2019-05-27,4:00,BRI,UZR
+310,2019-10-09,6:27,HRT,CLP
+311,2020-01-03,15:19,SUN,WNR
+312,2019-11-19,13:39,TSN,RAK
+313,2019-07-16,15:41,PSE,KER
+314,2019-08-01,14:43,OSU,OTP
+315,2019-04-17,4:42,RCU,LAK
+316,2019-09-20,13:00,MRZ,YNZ
+317,2019-11-27,9:56,KHK,JAU
+318,2019-11-23,10:07,WKR,LWB
+319,2019-12-11,13:19,YDQ,RIA
+320,2019-07-20,13:42,HKN,TUN
+321,2019-01-25,5:15,SKH,BPN
+322,2020-01-02,9:54,ONG,AER
+323,2019-10-15,9:16,YNB,JQA
+324,2019-11-18,11:14,FOK,ASS
+325,2019-07-02,9:08,BHD,TCQ
+326,2019-08-28,12:10,KMN,ENF
+327,2019-04-01,15:13,DNA,VDH
+328,2019-01-20,3:34,ULP,PDA
+329,2019-06-08,1:30,TID,PUZ
+330,2019-12-23,5:31,QRA,ODN
+331,2019-12-30,8:23,FBA,SBY
+332,2019-04-14,12:43,KHW,VEL
+333,2019-01-20,13:20,SAW,BLR
+334,2019-06-12,1:15,ESE,GMZ
+335,2019-11-27,10:46,LRH,KIH
+336,2019-10-24,4:26,TOO,JCK
+337,2019-07-18,10:47,UET,SKO
+338,2019-01-14,13:17,KAZ,YZH
+339,2019-05-18,2:35,GAN,USR
+340,2019-08-30,5:10,LMQ,KET
+341,2019-08-03,5:33,LZC,UTS
+342,2019-09-24,16:15,PYR,SDG
+343,2019-09-27,2:23,ZER,BRT
+344,2019-09-21,13:16,KUF,HLZ
+345,2019-02-11,10:05,AQJ,BTK
+346,2019-11-21,9:12,FRA,GVA
+347,2019-10-18,10:47,TYS,TTQ
+348,2019-03-20,3:47,MMB,NEC
+349,2019-09-04,8:13,DLF,EML
+350,2019-06-17,16:58,GMZ,DUE
+351,2019-08-11,15:50,KMN,YCR
+352,2019-02-01,3:37,BMC,DOD
+353,2019-12-20,8:15,POE,QPG
+354,2019-10-30,15:04,KKW,KMS
+355,2019-12-19,6:00,CMX,KHV
+356,2019-07-29,15:52,LGB,LHA
+357,2019-10-07,1:31,CXR,BGI
+358,2019-04-24,11:15,PTP,ZND
+359,2019-07-30,7:44,AMV,BRI
+360,2019-12-16,16:53,HTR,JSA
+361,2019-04-20,4:31,SUY,MRY
+362,2019-05-20,0:57,FNA,DGE
+363,2019-06-05,8:28,IGU,MGA
+364,2019-04-14,13:41,NSY,CDS
+365,2019-08-10,2:02,AJA,HMR
+366,2019-01-30,0:49,PUB,YYH
+367,2019-11-28,5:58,YGL,MJZ
+368,2019-05-03,13:25,UZR,UIP
+369,2019-08-29,12:21,GVA,GOQ
+370,2019-12-01,2:21,HLD,YVA
+371,2019-07-03,12:30,HSS,KOW
+372,2019-05-11,14:35,TRI,ZGR
+373,2019-09-28,8:13,BMP,KRF
+374,2019-04-01,7:37,ASE,BMP
+375,2019-03-29,14:58,TGN,VHZ
+376,2019-09-20,6:04,TCS,KGY
+377,2019-03-12,13:08,DWA,FTX
+378,2019-07-11,4:29,ITO,PUS
+379,2019-11-05,9:43,GEV,MLZ
+380,2019-06-04,13:04,YYD,DOY
+381,2019-02-25,16:31,BBT,HDD
+382,2019-03-22,1:16,FAJ,HAV
+383,2019-03-15,4:12,VTE,PZU
+384,2019-09-03,16:56,FAE,BUZ
+385,2019-03-11,1:29,VKT,SDB
+386,2019-02-01,9:49,ABZ,KTR
+387,2019-05-11,15:41,JCB,MAU
+388,2019-08-31,5:24,TJI,YST
+389,2019-05-22,13:01,OJC,YXT
+390,2019-06-20,3:48,SBT,ZLO
+391,2019-10-13,15:40,RVT,RVD
+392,2019-07-10,16:33,SXX,AJI
+393,2019-10-22,0:11,SDG,YDP
+394,2019-03-21,3:50,ZSA,JAU
+395,2019-10-27,2:38,GCJ,YPS
+396,2019-08-30,14:29,RFD,TNN
+397,2019-06-21,4:57,LSL,LAU
+398,2019-11-17,1:54,ANQ,HMY
+399,2019-10-05,1:08,MQT,RFP
+400,2019-07-25,7:41,ODO,HOQ
+401,2019-10-12,13:10,BAQ,PIR
+402,2019-02-17,0:52,ELQ,AFW
+403,2019-07-01,11:09,WST,ZWL
+404,2019-09-06,5:49,YWG,PGA
+405,2019-10-21,1:07,DZN,BNP
+406,2019-11-29,8:01,SHG,BHS
+407,2019-05-03,11:26,BHK,GYE
+408,2019-12-14,5:51,ENV,UDI
+409,2020-01-06,2:22,LXS,YIW
+410,2019-04-02,13:58,BJW,NJC
+411,2019-06-05,5:21,NOC,ATH
+412,2019-06-25,10:33,CRW,JQA
+413,2019-08-30,0:33,PUJ,DNL
+414,2019-04-08,10:25,LGH,SNS
+415,2020-01-07,8:24,QSR,IDA
+416,2019-09-30,8:16,ANK,XCZ
+417,2019-12-07,5:49,QJB,YRB
+418,2019-07-29,14:45,CAI,SMK
+419,2019-11-02,16:31,YSL,YPN
+420,2019-04-11,3:02,TRK,BEW
+421,2019-12-27,4:07,VNX,QRY
+422,2019-08-07,2:55,OHE,INT
+423,2019-02-27,4:13,LJN,DYS
+424,2019-12-30,8:48,KLU,ARY
+425,2019-07-14,13:31,VLP,LKH
+426,2019-11-01,0:07,VPZ,MXI
+427,2019-12-12,4:08,STS,IRK
+428,2019-05-31,15:41,CNM,MTR
+429,2019-08-07,14:31,VTU,HOK
+430,2019-09-10,5:33,TYM,YRS
+431,2019-07-17,11:59,BKL,KHM
+432,2019-09-20,2:53,CMI,DHA
+433,2019-11-24,5:47,NYW,MUO
+434,2019-08-03,10:36,OSM,THG
+435,2019-02-13,12:23,MHR,WRE
+436,2019-03-07,11:55,CEI,CNX
+437,2019-05-15,11:13,AUG,DMK
+438,2019-12-26,16:12,CKZ,PCQ
+439,2020-01-05,3:27,KUV,KTA
+440,2019-03-21,1:00,PLN,VGZ
+441,2019-03-02,3:39,CFE,WHU
+442,2019-07-17,16:58,HYR,GZO
+443,2019-02-15,5:21,TMT,BCN
+444,2019-07-24,6:35,YET,MVT
+445,2019-09-28,14:30,NCE,BSX
+446,2019-03-16,8:10,EYP,LLW
+447,2019-06-02,4:06,SCQ,GVL
+448,2019-04-25,2:00,YTZ,PKX
+449,2019-12-14,4:47,ROS,KWM
+450,2019-02-21,13:28,AEG,BFS
+451,2019-04-05,1:25,DUB,GED
+452,2019-04-17,3:12,FLA,RBY
+453,2019-03-05,1:13,WKK,AGZ
+454,2019-06-01,7:12,KWM,TCH
+455,2019-04-28,6:40,QKX,MGL
+456,2019-08-28,11:26,MWZ,YHI
+457,2019-11-04,0:57,YUE,KZS
+458,2019-10-01,14:06,GHF,RCS
+459,2019-05-17,15:01,VTZ,KNO
+460,2019-03-27,15:27,IXM,SDV
+461,2019-01-24,0:50,ETB,SBR
+462,2019-10-16,16:13,YBA,FCB
+463,2019-02-09,13:38,VNT,LAF
+464,2019-06-01,6:44,MSS,COE
+465,2019-09-28,8:25,BNG,PSL
+466,2019-06-18,0:15,GBT,PEG
+467,2019-02-22,1:23,GOH,SGC
+468,2019-11-28,16:43,MCO,BUO
+469,2019-10-06,6:56,ISM,PUZ
+470,2019-08-10,11:16,DHN,CGP
+471,2019-06-17,1:15,PES,JAE
+472,2019-06-28,14:10,MDS,LFB
+473,2019-02-28,0:11,YBI,YQT
+474,2019-06-15,3:04,YUY,MDW
+475,2019-10-09,6:19,ISC,CMU
+476,2019-12-29,2:56,CVS,SPU
+477,2019-09-11,14:51,IOR,ZQW
+478,2019-03-19,13:46,ASK,AAQ
+479,2019-12-02,5:04,GRK,OBO
+480,2019-07-12,8:44,MXV,SBS
+481,2019-12-07,2:11,MEM,NBX
+482,2019-01-28,13:30,BIS,OKC
+483,2019-05-08,0:14,BAZ,ESE
+484,2019-05-09,13:36,LWK,ABC
+485,2019-05-06,9:45,WEH,ASW
+486,2019-03-15,7:39,VVI,ULK
+487,2019-10-29,14:25,YVQ,FKQ
+488,2019-06-09,9:44,MUZ,QGU
+489,2019-04-22,1:02,TLX,ZPH
+490,2019-08-29,6:10,SCL,RMY
+491,2019-01-15,6:17,TLQ,PNZ
+492,2019-06-01,15:42,KGT,POF
+493,2019-03-14,11:50,YHR,SYA
+494,2019-09-10,9:31,NRK,MOJ
+495,2019-02-26,10:55,MEC,CJL
+496,2019-07-15,5:51,MCN,YTY
+497,2019-06-13,5:04,TTN,LFT
+498,2019-04-01,9:36,NDY,NQU
+499,2019-12-04,5:04,TKF,YQZ
+500,2019-07-26,6:13,OZC,CLY
+501,2019-01-15,9:52,KAZ,ADD
+502,2019-03-06,10:04,HUH,KSK
+503,2019-08-25,8:43,NCJ,BUL
+504,2020-01-01,4:55,LPQ,BFD
+505,2019-03-03,0:53,TKD,TEZ
+506,2019-09-14,13:57,YER,GOP
+507,2019-12-11,1:37,UBJ,YEK
+508,2019-01-22,2:47,JFK,MAB
+509,2019-01-22,0:03,PCN,MMU
+510,2019-08-28,7:22,BYI,KMS
+511,2019-07-02,13:07,JAU,THQ
+512,2019-10-23,6:31,SGD,BUX
+513,2019-06-15,14:49,DSM,MHG
+514,2019-03-07,12:28,XKH,OVA
+515,2019-03-08,4:02,WMX,TSU
+516,2019-12-13,9:04,HYR,RSW
+517,2019-07-05,7:27,KZF,VUP
+518,2019-03-27,1:09,YBK,BEN
+519,2019-10-03,10:37,UIP,MLU
+520,2019-04-11,7:57,SOJ,CIW
+521,2019-07-08,8:00,PKT,CLP
+522,2019-11-10,15:11,YMW,BCU
+523,2019-04-29,4:44,BKQ,TUL
+524,2019-10-23,11:54,TLK,CND
+525,2019-05-21,0:41,STM,BZI
+526,2019-01-29,14:18,UTW,SCT
+527,2019-04-22,15:49,KOC,LET
+528,2019-02-12,15:18,HID,CEU
+529,2019-09-09,3:41,NUK,FMI
+530,2019-08-27,10:02,AKW,SHL
+531,2019-04-20,7:54,CUH,ZFN
+532,2019-11-22,6:10,CDV,TDJ
+533,2019-08-10,14:24,HOH,SGI
+534,2019-10-25,7:31,TLJ,RVY
+535,2019-02-20,13:12,BEJ,CIU
+536,2019-08-11,10:41,HAK,KUO
+537,2019-12-10,7:34,BWG,MAX
+538,2019-01-21,15:46,YXN,CGM
+539,2020-01-05,10:24,PVK,GUC
+540,2019-11-04,12:30,TIR,RMA
+541,2019-03-15,16:09,NXX,DUT
+542,2019-05-26,11:07,RJL,VXE
+543,2019-06-26,15:25,MCF,VOH
+544,2020-01-03,13:53,FUN,LAF
+545,2019-11-15,13:10,GRX,BTV
+546,2019-05-07,9:22,MHP,PCS
+547,2019-08-14,6:22,XMH,BIX
+548,2019-11-03,3:00,ESD,MDW
+549,2019-08-16,6:34,PFJ,EJA
+550,2019-12-15,1:16,ZVK,AAE
+551,2019-12-28,15:44,JCR,AGJ
+552,2019-06-12,3:48,ABB,JUV
+553,2019-03-02,8:16,ASP,KJI
+554,2019-12-10,6:22,ITA,HUT
+555,2019-09-02,6:18,YMW,AIN
+556,2019-10-21,11:16,GLD,YXX
+557,2019-02-13,8:24,VUP,CUN
+558,2019-06-08,7:04,VLD,LEL
+559,2019-01-20,3:41,JSH,TTI
+560,2019-05-13,2:03,ASB,YFR
+561,2019-04-05,16:33,FRL,GZA
+562,2019-09-03,16:17,URA,CSZ
+563,2019-07-30,14:32,SMN,MSW
+564,2019-10-28,6:48,DES,AUS
+565,2019-06-03,3:59,BLG,ANB
+566,2019-05-17,5:52,NSK,YCO
+567,2019-08-27,11:35,PEN,IRI
+568,2019-04-20,6:58,YEK,HHQ
+569,2019-08-17,15:46,IXB,WHF
+570,2019-03-24,11:26,MVB,AET
+571,2019-08-14,1:40,ULK,ATH
+572,2019-03-26,8:46,TCP,AUX
+573,2019-05-08,3:51,XIC,CMA
+574,2019-04-09,14:36,TNR,PKR
+575,2019-06-07,2:28,REP,XQC
+576,2019-02-01,0:45,VIJ,LIG
+577,2019-12-07,11:38,SOJ,GPL
+578,2019-07-09,14:48,MHA,PSA
+579,2020-01-04,16:45,PEK,ADY
+580,2019-05-21,5:41,JPA,KXE
+581,2019-03-11,8:55,OVB,CEN
+582,2019-05-27,11:37,MQF,AOR
+583,2019-03-29,12:49,USA,YWM
+584,2019-10-18,3:00,QSF,CTN
+585,2019-12-02,10:30,BMK,MEL
+586,2019-12-08,16:18,HOR,TUD
+587,2019-11-26,14:58,NIU,TMP
+588,2019-03-05,3:31,OGN,LNB
+589,2019-04-19,6:02,BCD,KPN
+590,2019-11-11,9:15,GOQ,CAY
+591,2019-02-24,14:30,GLK,WVN
+592,2019-12-16,1:15,RUA,PAP
+593,2019-04-27,9:04,GLD,KQT
+594,2019-05-17,9:23,LAD,NOD
+595,2019-03-18,6:05,CMG,SPM
+596,2019-09-23,10:37,ALJ,SGN
+597,2019-04-10,8:09,IJK,LBQ
+598,2019-10-24,15:38,GTE,BUZ
+599,2019-01-30,12:35,NBE,GCH
+600,2019-10-01,10:28,MWF,GAE
+601,2019-03-01,16:31,KXK,AFZ
+602,2019-01-23,11:48,PAH,URO
+603,2019-04-27,11:59,DKS,LBL
+604,2019-04-15,1:07,AGH,SBZ
+605,2019-06-01,6:37,PRQ,MBE
+606,2019-10-19,9:56,CBV,YZV
+607,2019-12-16,10:56,BKH,CYP
+608,2019-03-11,1:22,SEN,SBW
+609,2019-10-20,4:16,DPL,JAP
+610,2019-03-22,12:09,MWK,BAG
+611,2019-02-18,16:35,NAT,MVT
+612,2019-02-16,5:46,LFT,NLH
+613,2019-04-02,16:28,GOZ,VLG
+614,2019-07-25,10:02,LRT,BLE
+615,2019-06-10,4:21,TOL,TJQ
+616,2019-06-23,16:41,BFP,HUF
+617,2019-06-10,5:58,JOS,MTZ
+618,2019-04-12,9:50,IRG,HDI
+619,2019-10-08,15:06,ORP,YSK
+620,2019-03-08,7:19,SUP,ANS
+621,2019-12-27,1:45,SSH,VAA
+622,2019-01-22,8:44,DJB,USU
+623,2019-03-01,2:41,YLL,JRB
+624,2019-07-19,7:46,MKE,ESL
+625,2019-10-24,1:48,TJS,FNB
+626,2019-12-27,15:59,NME,OKK
+627,2019-03-13,9:45,BLR,BLA
+628,2019-08-07,9:25,OVD,HXD
+629,2019-07-03,12:27,FAY,SVN
+630,2019-10-10,8:49,SHL,KRS
+631,2019-10-28,6:05,RKO,EUA
+632,2019-07-14,3:35,OTZ,FKI
+633,2019-10-27,15:46,TIE,AGV
+634,2019-08-11,16:47,ORL,FON
+635,2019-06-04,2:20,EWB,PTH
+636,2019-03-03,8:18,DEZ,NKM
+637,2019-05-13,8:39,CMW,AGX
+638,2019-01-25,4:57,IMK,BED
+639,2019-09-18,13:02,AVL,SMS
+640,2019-06-10,7:21,PIZ,VAA
+641,2019-02-18,7:58,ZWA,FRB
+642,2019-12-14,12:17,BYI,CGM
+643,2019-08-05,4:51,IMP,YVP
+644,2019-10-05,9:59,APF,DAR
+645,2019-12-14,12:30,AAH,CRL
+646,2019-07-19,3:39,MKR,STA
+647,2019-02-18,15:25,UAK,ESB
+648,2019-02-07,5:13,ARI,DBN
+649,2019-11-23,13:26,HHR,HSV
+650,2019-02-15,3:11,CXA,SPR
+651,2019-12-24,13:34,IXM,HHI
+652,2019-12-01,11:07,TIQ,SCS
+653,2019-04-11,15:54,ZWA,VOG
+654,2019-05-06,3:39,KIS,AYS
+655,2019-06-22,11:45,UJE,MLO
+656,2019-05-16,15:50,KVR,SMQ
+657,2019-10-29,4:33,SWU,QHR
+658,2019-09-28,15:00,UAI,MBZ
+659,2019-06-02,4:08,AVW,GOZ
+660,2019-09-12,7:16,GLZ,IKK
+661,2019-12-19,6:26,TIQ,LKZ
+662,2019-12-12,1:34,XAU,YQC
+663,2020-01-05,9:22,OMB,CUL
+664,2019-12-11,14:23,BFW,RNN
+665,2019-11-27,1:28,DNV,CPH
+666,2019-05-19,4:45,ACC,KUV
+667,2019-09-03,13:57,ALL,AFW
+668,2019-03-12,12:43,GRY,KZC
+669,2019-10-05,2:50,YCU,SPC
+670,2019-09-10,15:17,LEC,AMH
+671,2019-08-21,10:08,KIR,EUQ
+672,2019-05-23,5:02,YVR,XIL
+673,2019-09-22,3:25,YDA,LFI
+674,2019-11-15,0:52,YJP,LIH
+675,2019-08-14,7:09,ZIX,DLY
+676,2019-12-18,5:09,UAM,VCD
+677,2019-02-25,1:21,MWK,DBD
+678,2019-03-31,0:59,CES,HPA
+679,2019-02-16,10:50,MTG,YVP
+680,2019-08-18,4:26,IMF,ZFA
+681,2019-07-17,13:21,MXS,ULU
+682,2019-12-09,1:37,MMT,YSE
+683,2019-01-28,5:30,DLY,LAP
+684,2019-04-25,8:25,AMM,LPG
+685,2019-04-30,13:35,KDT,GOP
+686,2019-11-29,3:56,ADS,ROA
+687,2019-03-02,2:08,CAC,CDG
+688,2020-01-07,5:21,RAL,TOW
+689,2019-10-19,6:33,CUZ,CPR
+690,2019-05-04,3:46,YYC,VIR
+691,2019-05-19,5:56,HTN,MHX
+692,2019-06-30,11:27,FLD,WBG
+693,2019-07-25,1:31,NYM,ISA
+694,2019-12-15,9:34,LYE,USN
+695,2019-03-10,4:03,FSI,LFI
+696,2019-04-27,11:38,LHA,XSI
+697,2019-12-21,13:33,YZU,SDF
+698,2019-06-06,3:34,OAM,IFH
+699,2019-04-13,0:29,FYN,SVZ
+700,2019-02-11,12:40,BEF,CRZ
+701,2019-08-24,0:38,KSH,MWE
+702,2019-11-21,4:55,APO,YZH
+703,2019-07-14,12:03,SMT,SZG
+704,2019-02-22,8:08,AAL,MQP
+705,2019-05-22,15:34,GSJ,GMU
+706,2019-09-08,2:10,AOC,HKN
+707,2019-03-21,6:57,OKK,LAA
+708,2019-04-23,8:04,JAX,AET
+709,2019-10-04,1:45,WIR,TEE
+710,2019-11-25,5:25,WRB,YFX
+711,2019-12-22,12:09,ULP,KBV
+712,2019-06-03,7:00,NAO,LMQ
+713,2019-01-29,13:22,RET,SKZ
+714,2019-03-15,15:47,MAF,UET
+715,2019-10-22,7:41,KKJ,NIT
+716,2019-08-09,0:13,GOM,RSH
+717,2019-08-24,9:24,GOB,LAQ
+718,2019-01-23,12:48,BHS,LBL
+719,2019-07-04,16:00,CCV,ETM
+720,2019-12-18,16:15,THR,UKG
+721,2019-06-02,1:05,EPL,PUZ
+722,2019-01-23,16:24,DRN,HWO
+723,2019-03-16,4:13,CWL,EWR
+724,2019-11-23,16:46,TGJ,KMW
+725,2019-01-23,4:12,JSK,TIA
+726,2019-02-01,9:06,YND,HHP
+727,2019-11-02,8:03,KKN,ERZ
+728,2019-06-24,8:58,YSD,POI
+729,2019-02-09,13:04,PTB,TPS
+730,2019-06-09,11:05,NIO,HVD
+731,2019-05-31,16:29,EGN,GAM
+732,2019-11-22,1:25,DLH,LBV
+733,2019-03-19,2:41,GOV,NLA
+734,2019-08-03,9:16,PWM,NDU
+735,2019-09-12,6:19,GIS,PNR
+736,2019-01-29,4:05,WKF,ILU
+737,2019-03-18,9:14,XNA,NOB
+738,2019-04-07,13:40,YMW,PUS
+739,2019-06-22,9:58,EBU,CSO
+740,2019-08-16,0:05,APK,TUL
+741,2019-01-30,11:29,TGR,DOK
+742,2019-03-03,13:23,GIS,CLU
+743,2019-10-22,8:17,CTB,VER
+744,2019-09-07,16:12,NHZ,LRF
+745,2019-08-14,15:58,NHZ,RER
+746,2019-01-30,1:13,YOC,PBO
+747,2019-12-09,1:27,TOY,JHM
+748,2019-02-11,16:35,OMB,BHK
+749,2019-06-30,12:48,JSU,WUA
+750,2019-06-04,10:50,BTK,WRB
+751,2019-08-22,10:10,HAK,LYE
+752,2019-12-23,14:40,PUT,RRS
+753,2019-06-09,2:24,HOI,SFS
+754,2019-09-14,3:48,SAW,ROR
+755,2019-04-29,5:38,JGN,CER
+756,2019-11-03,14:39,EPR,HIO
+757,2019-08-01,7:08,KEM,LGP
+758,2019-06-27,1:59,LIM,TOY
+759,2019-06-11,11:52,LGS,CNC
+760,2019-04-12,10:32,CJC,ZCO
+761,2019-11-23,6:41,ATG,MNM
+762,2019-10-16,1:15,ELI,KMC
+763,2019-12-12,12:13,VVZ,HGN
+764,2019-11-07,3:27,TAI,FNJ
+765,2019-09-16,2:40,HAC,UCB
+766,2019-03-02,9:32,ZMM,PHL
+767,2019-04-16,16:30,TAY,SUI
+768,2019-06-08,12:10,JAU,UET
+769,2019-06-09,1:40,KET,YCS
+770,2019-02-27,1:07,XJD,COZ
+771,2019-06-22,15:09,YNJ,ZAZ
+772,2019-01-16,15:32,VOH,DTE
+773,2019-01-17,15:57,YUL,RUV
+774,2020-01-01,3:54,KAI,BYP
+775,2019-07-23,14:34,YMJ,DES
+776,2019-11-16,13:05,OGX,OCF
+777,2020-01-01,4:57,LAA,RJA
+778,2019-04-30,15:24,TCN,MUA
+779,2019-12-17,4:33,RJH,JDG
+780,2019-06-09,3:46,PXR,GND
+781,2019-10-30,0:57,TVI,UCK
+782,2019-12-31,7:36,HOH,ISJ
+783,2019-07-14,9:20,MCU,AKS
+784,2019-05-30,5:18,KGL,BGG
+785,2019-03-12,16:42,PAP,RGK
+786,2019-11-12,10:10,KHW,CMU
+787,2019-04-17,1:50,GUH,VPZ
+788,2019-10-25,4:03,DYL,YMH
+789,2019-11-10,4:16,AKR,CED
+790,2019-02-14,10:18,YCD,PAE
+791,2019-09-04,5:23,MWK,LAM
+792,2019-12-22,4:12,KHW,AZN
+793,2019-08-30,14:11,UKT,ABX
+794,2019-02-26,4:46,YGQ,HPH
+795,2019-02-28,15:51,ORD,IGD
+796,2019-02-10,0:18,YBS,NDR
+797,2019-01-31,10:59,YUT,NPL
+798,2019-10-06,1:55,HMV,SEU
+799,2019-10-27,12:10,DBA,LTX
+800,2019-03-13,11:38,TXN,ZHA
+801,2019-09-22,10:02,XXN,CHS
+802,2019-04-16,2:37,MEI,EUG
+803,2019-07-29,3:44,LSZ,LGW
+804,2019-12-01,5:23,PAS,IXH
+805,2019-12-11,9:18,WUU,ZEC
+806,2019-07-18,5:52,CCL,PAE
+807,2019-05-01,10:54,BGN,WIO
+808,2019-02-28,9:22,SJL,PHB
+809,2019-08-07,1:47,CMN,SBY
+810,2019-08-28,0:18,GKK,AKJ
+811,2019-01-16,16:35,KNX,YGL
+812,2019-05-19,11:41,DVO,MME
+813,2019-11-22,15:18,JUA,HKT
+814,2019-02-07,12:38,BNB,CKZ
+815,2019-03-19,3:03,ICN,ZJG
+816,2019-04-08,0:27,CUE,MSW
+817,2019-07-10,13:26,HUS,DCF
+818,2019-11-09,2:46,RAL,BOY
+819,2019-05-04,16:01,CGZ,ORG
+820,2019-07-29,3:28,JOE,BWX
+821,2019-04-20,0:33,NYE,BOD
+822,2019-03-21,15:34,IAS,CCZ
+823,2019-01-25,14:10,BNC,HVR
+824,2019-07-02,11:23,MBZ,DUT
+825,2019-04-13,15:43,PJG,MWK
+826,2019-05-25,9:49,FPR,SLQ
+827,2019-06-27,11:06,ARD,PTG
+828,2019-12-26,6:38,CYF,ROA
+829,2019-08-11,8:14,MSU,GOI
+830,2019-10-11,12:11,PTJ,PIL
+831,2019-06-26,8:50,BFM,BOH
+832,2019-02-27,14:01,YVT,KTG
+833,2019-08-27,8:57,DUM,YHE
+834,2019-10-01,16:46,UKG,MLG
+835,2020-01-04,4:13,SGV,DAB
+836,2019-05-05,13:05,OYK,ZJN
+837,2019-11-11,6:04,FRY,LBX
+838,2019-05-19,14:10,KZI,YEN
+839,2019-03-20,9:47,KRR,ULZ
+840,2019-12-25,10:26,LOH,CUD
+841,2019-08-27,9:20,BUP,UGA
+842,2019-12-28,14:28,YQX,CYI
+843,2019-10-19,10:39,ANU,ZPC
+844,2019-01-21,4:26,XGR,YWK
+845,2020-01-12,10:40,CGI,BKI
+846,2019-09-22,10:46,TMX,DWH
+847,2019-11-19,5:13,GIS,SMO
+848,2019-12-05,4:48,EUG,MEY
+849,2019-11-01,11:16,PAG,SEK
+850,2019-11-18,10:14,SOB,ESS
+851,2019-07-21,6:42,LRH,KRQ
+852,2019-11-16,8:38,ABH,XIQ
+853,2019-03-03,15:42,FFT,CCP
+854,2019-12-20,2:50,EAE,UOX
+855,2019-08-06,3:14,MZM,LHV
+856,2019-02-28,7:32,GUA,THU
+857,2019-04-05,8:04,BFE,KSF
+858,2019-10-22,11:34,WNN,PFO
+859,2019-11-08,12:12,SUS,MDE
+860,2019-06-21,0:21,MAB,ILU
+861,2019-03-09,10:25,PAC,LUR
+862,2019-02-01,10:20,YMA,TYF
+863,2019-01-13,15:01,GOP,DUD
+864,2019-02-13,8:51,YDQ,ULA
+865,2019-04-03,4:19,FCB,ETS
+866,2019-03-20,1:16,LPG,BZL
+867,2019-02-09,7:14,NGZ,ZIN
+868,2019-01-29,8:49,YEV,YLK
+869,2020-01-05,1:37,KNX,LGH
+870,2019-05-27,0:55,CYR,ARN
+871,2019-07-10,10:47,ONP,OMR
+872,2019-05-25,3:50,TIE,NNA
+873,2019-02-26,1:52,DLY,KMI
+874,2019-11-27,14:27,CMK,GWE
+875,2019-12-22,15:58,KGK,MJC
+876,2019-09-25,11:05,WTZ,RDP
+877,2019-01-27,9:22,REP,CMG
+878,2019-07-06,1:39,ETB,RVN
+879,2019-01-26,9:34,PEW,PMK
+880,2019-05-04,6:11,PAD,MYZ
+881,2019-09-23,14:00,YGB,OSL
+882,2020-01-04,16:25,LTX,JUL
+883,2019-04-22,13:00,ZLT,AFA
+884,2019-11-26,6:34,LUG,FKB
+885,2019-02-28,15:14,YDL,HDI
+886,2019-05-12,1:19,MUX,YCY
+887,2019-08-21,1:50,BEF,OKR
+888,2019-03-22,16:56,NGQ,ZLT
+889,2019-06-26,2:49,SNO,JGA
+890,2019-06-29,14:15,JDG,PHK
+891,2019-04-14,2:46,GNA,COC
+892,2019-10-20,16:13,IRC,RYB
+893,2019-04-28,9:33,LHK,MEA
+894,2020-01-07,9:18,SQO,TMW
+895,2019-06-05,8:15,HMN,TVI
+896,2019-05-15,16:08,NOZ,HIJ
+897,2019-02-05,0:44,NUK,DUJ
+898,2019-11-02,5:57,SPN,GJT
+899,2019-06-26,5:56,TCN,PGX
+900,2019-05-04,13:24,BSC,IMP
+901,2019-05-12,11:08,NVA,LUK
+902,2019-01-29,12:42,BXO,UME
+903,2019-10-10,4:12,KSL,NAS
+904,2019-12-22,13:40,RFD,CVE
+905,2019-11-01,8:20,XCH,NKG
+906,2019-08-24,7:19,DAM,GOV
+907,2019-07-09,0:14,ADF,YFS
+908,2019-04-12,12:14,TDX,UAK
+909,2019-08-28,13:09,MOB,KEW
+910,2019-02-18,15:21,ULP,PTK
+911,2019-04-29,10:55,CUA,YPQ
+912,2019-10-08,3:59,SQO,AAC
+913,2019-08-30,1:13,CDA,UZU
+914,2019-01-13,12:17,BVH,ZCL
+915,2019-04-25,10:21,BZH,THQ
+916,2019-01-26,5:39,CUB,BWG
+917,2019-03-17,10:32,WDS,BUS
+918,2019-10-06,12:04,OYK,YNS
+919,2019-12-05,0:47,MVS,DUB
+920,2019-08-10,5:33,MAK,FHU
+921,2019-02-17,14:16,MTS,LBX
+922,2019-10-27,3:18,EAU,WEI
+923,2019-03-29,0:18,HUU,TTG
+924,2019-02-19,14:19,SVP,BGE
+925,2019-09-19,16:42,NTN,TND
+926,2019-01-30,5:22,BGF,TYN
+927,2019-01-22,15:04,SFJ,KWK
+928,2019-04-13,15:38,HNM,AWZ
+929,2019-09-08,16:56,IXC,JBQ
+930,2019-03-18,6:13,KEL,GWT
+931,2019-08-20,5:37,CUQ,QJI
+932,2019-10-05,12:57,ZAR,KYP
+933,2019-06-07,5:35,MRD,IXE
+934,2019-02-06,15:48,MEN,EVX
+935,2019-03-05,10:08,ANX,LMO
+936,2019-05-05,11:05,AVL,DZN
+937,2019-09-29,8:43,NIM,BZV
+938,2019-11-29,6:27,SOZ,ZSA
+939,2019-05-30,7:43,AUA,YCB
+940,2019-08-15,10:32,HEX,NRE
+941,2019-09-20,7:55,BPE,YLC
+942,2019-01-27,3:52,ABA,ZMG
+943,2019-06-29,15:50,CCX,LDM
+944,2019-12-03,0:25,HAD,OKE
+945,2019-12-11,11:09,YFE,DNK
+946,2019-12-15,4:07,TAM,ANB
+947,2019-06-19,16:45,LYP,FAH
+948,2019-12-11,11:45,IRB,QEF
+949,2019-06-19,11:21,ERN,JDH
+950,2019-05-03,5:30,BZD,VAS
+951,2020-01-09,12:17,AEO,GJA
+952,2019-10-04,16:03,HAR,MKQ
+953,2019-11-08,10:02,JEF,NOJ
+954,2020-01-07,10:28,LLY,HFN
+955,2019-12-29,10:26,KHT,TAO
+956,2019-07-17,2:08,ZZU,MBJ
+957,2019-06-07,10:55,KNH,SPP
+958,2019-07-12,6:30,PAE,BEN
+959,2019-05-23,2:34,SVB,MEG
+960,2019-05-31,3:28,DNL,ITO
+961,2019-02-27,10:30,BBQ,VAO
+962,2019-04-18,7:18,KLO,YTH
+963,2019-03-22,9:19,FGU,PVG
+964,2020-01-05,4:42,EPR,PXM
+965,2019-11-25,15:16,CKZ,TGN
+966,2019-12-02,1:24,ARD,LJG
+967,2019-11-20,0:54,KOK,AGB
+968,2019-02-06,15:55,DYG,MKR
+969,2019-08-28,8:47,WDR,MJK
+970,2019-08-10,7:19,KTU,KUG
+971,2019-06-29,6:10,NQI,IXK
+972,2019-12-19,5:47,GTE,GRY
+973,2019-04-11,15:18,GEL,PGU
+974,2019-12-27,10:29,PIM,MEA
+975,2019-01-13,11:14,VTU,BSR
+976,2019-07-21,11:33,CBJ,CHC
+977,2019-09-06,12:33,BYS,BTM
+978,2019-02-23,0:33,WUX,OYA
+979,2020-01-01,1:46,XJM,NWA
+980,2019-04-13,13:25,XIC,SAQ
+981,2019-09-11,5:37,TNR,AYK
+982,2019-03-17,0:45,TEQ,TWB
+983,2019-08-12,4:39,NIS,CWB
+984,2019-03-28,11:40,MZL,DLI
+985,2019-04-24,13:12,PBJ,YPX
+986,2019-03-27,12:46,FCB,YMO
+987,2019-08-19,12:52,QLS,TDS
+988,2019-05-12,8:24,BPH,RBD
+989,2019-06-26,12:33,CGI,JAD
+990,2020-01-08,7:10,SLD,FNL
+991,2019-01-28,15:53,MBT,YXS
+992,2019-11-21,6:43,KAB,KMG
+993,2019-01-24,10:25,HUY,NQN
+994,2019-12-29,5:20,XPL,RHI
+995,2019-10-01,5:09,QHR,CVE
+996,2019-09-10,0:49,YLC,GLD
+997,2019-10-12,15:45,ALO,PKZ
+998,2019-10-09,6:32,SHB,ZMM
+999,2019-05-18,4:18,YTQ,LBE
+1000,2019-11-25,8:22,MZL,BHW
