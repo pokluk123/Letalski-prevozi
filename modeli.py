@@ -22,19 +22,25 @@ def commit(fun):
     funkcija.nocommit = fun
     return funkcija
   
-  def id_karte(igralec):
+  def id_karte(ime):
     """
-    Vrne ID karte, če je karta s tam imenom obstaja
+    Vrne ID karte, če je karta s tem imenom obstaja
     Če karte ni, vrne False.
     """
-    vrstica = conn.execute("SELECT number FROM karta WHERE karta.ime = ?",[igralec]).fetchone()
+    vrstica = conn.execute("SELECT number FROM karta WHERE karta.ime = ?",[ime]).fetchone()
     if vrstica is not None:
         return vrstica
     return False
 
 
-def ime_potnika(st):
+def ime_potnika(let):
     """
     Vrne ime igralca na podlagi leta na karti
     """
-    return  ''.join(conn.execute("SELECT ime FROM karta WHERE let = ?",[st]).fetchone())
+    return  ''.join(conn.execute("SELECT ime FROM karta WHERE let = ?",[let]).fetchone())
+
+def vsi_prevozi()
+    """
+    Vrne orvih 10 linij
+    """
+    return conn.execute("""SELECT * FROM linije """).fetchone()
