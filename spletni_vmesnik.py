@@ -10,6 +10,43 @@ def glavna_stran():
                     )
 
 
+@get('/isci/')
+def isci():
+    iskalni_niz = request.query.getunicode('iskalni_niz')
+    let=modeli.poisci(iskalni_niz)
+    #osebe = Oseba.poisci(iskalni_niz)
+    return template(
+        'rezultati_iskanja.html',
+        iskalni_niz=iskalni_niz,
+        let=let
+    )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # @get('/igralci/')
 # def igralci():

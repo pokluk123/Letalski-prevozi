@@ -1,0 +1,26 @@
+% rebase('osnova.html')
+<h2>Osebe, ki imajo v imenu "{{iskalni_niz}}"</h2>
+
+<table>
+    <tr>
+        <th>ID LETA</th>
+        <th>ČAS ODHODNA</th>
+        <th>ČAS PRIHODA</th>
+        <th>DAN ODHODA</th>
+        <th>ČAS LETENJA</th>
+        <th>LETALIŠČE ODHODA</th>
+        <th>LETALIŠČE PRIHODA</th>
+    </tr>
+
+    % id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce = let
+    <tr>
+        <td>{{ id }}</td>
+        <td>{{ odhod }}</td>
+        <td>{{ prihod }}</td>
+        <td>{{ odhod_dan }}</td>
+        <td>{{ cas_letenja }}</td>
+        <td>{{ odhod_letalisce }}</td>
+        <td>{{prihod_letalisce}}</td>
+    </tr>
+    %end
+</table>

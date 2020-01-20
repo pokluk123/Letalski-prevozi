@@ -56,3 +56,20 @@ def prvih_deset():
                             LIMIT 50;
 
                              """).fetchall()
+
+def poisci(id):
+    """
+    Vrne vse podatke o letu glede na njegov ID.
+    """
+    sql ="""SELECT id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce FROM let JOIN  linije ON let.stevilka_leta = linije.koda WHERE id = ?"""
+    return conn.execute(sql, [id]).fetchone()
+        
+
+""" def poisci(niz):
+    
+    Vrne vse osebe, ki v imenu vsebujejo dani niz.
+    
+    sql = "SELECT id, ime FROM oseba WHERE ime LIKE ?"
+    for id, ime in conn.execute(sql, ['%' + niz + '%']):
+        yield Oseba(ime=ime, id=id)
+ """

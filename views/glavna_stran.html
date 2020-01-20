@@ -1,5 +1,54 @@
+% rebase('osnova.html')
+
+
+<section class="hero">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title">
+                Letalski prevozi
+            </h1>
+            <h2 class="subtitle">
+                poišči svoj let
+            </h2>
+        </div>
+    </div>
+</section>
+
+<form action="/isci/">
+    <div class="field">
+        <label class="label">Poišči svoj let, vpiši njegov ID </label>
+        <div class="control">
+            <input class="input" type="text" placeholder="ID LETA" name="iskalni_niz">
+        </div>
+    </div>
+
+    <div class="field">
+        <div class="control">
+            <button class="button">Išči!</button>
+        </div>
+</form>
+
+
 <table>
-%for id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce in leti:
-<tr><td>{{id}}</td></tr>
-%end
+    <tr>
+        <th>ID LETA</th>
+        <th>ČAS ODHODNA</th>
+        <th>ČAS PRIHODA</th>
+        <th>DAN ODHODA</th>
+        <th>ČAS LETENJA</th>
+        <th>LETALIŠČE ODHODA</th>
+        <th>LETALIŠČE PRIHODA</th>
+    </tr>
+    %for id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce in leti:
+    <tr>
+        <td>{{ id }}</td>
+        <td>{{ odhod }}</td>
+        <td>{{ prihod }}</td>
+        <td>{{ odhod_dan }}</td>
+        <td>{{ cas_letenja }}</td>
+        <td>{{ odhod_letalisce }}</td>
+        <td>{{prihod_letalisce}}</td>
+    </tr>
+    %end
 </table>
+
