@@ -61,7 +61,12 @@ def poisci(id):
     """
     Vrne vse podatke o letu glede na njegov ID.
     """
-    sql ="""SELECT id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce FROM let JOIN  linije ON let.stevilka_leta = linije.koda WHERE id = ?"""
+    sql ="""SELECT id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce, letalisce_odhod.ime
+            FROM let 
+            JOIN  linije ON let.stevilka_leta = linije.koda
+            JOIN  letalisce AS letalisce_odhod ON letalisce.koda_letalisca = odhod_letalisce
+            JOIN  letalisce AS letalisce_prihod ON letalisce.koda_letalisca = odhod_letalisce
+            WHERE id = ?"""
     return conn.execute(sql, [id]).fetchone()
 
 

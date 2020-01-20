@@ -15,7 +15,7 @@ def isci():
     iskalni_niz = request.query.getunicode('iskalni_niz')
     let=modeli.poisci(iskalni_niz)
     #osebe = Oseba.poisci(iskalni_niz)
-    return bottle.template(
+    return template(
         'rezultati_iskanja.html',
         iskalni_niz=iskalni_niz,
         let=let
@@ -28,7 +28,7 @@ def kajpomeni():
     iskalni_niz = request.query.getunicode('iskalni_niz')
     ime_letalisca=modeli.ime_letalisca(iskalni_niz)
     #osebe = Oseba.poisci(iskalni_niz)
-    return bottle.template(
+    return template(
         'katero_letalisce.html',
         iskalni_niz=iskalni_niz,
         let=ime_letalisca

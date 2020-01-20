@@ -12,14 +12,14 @@
         <th>LETALIŠČE PRIHODA</th>
     </tr>
 
-    % id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce = let
+    % id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce, odhod_ime = let
     <tr>
         <td>{{ id }}</td>
         <td>{{ odhod }}</td>
         <td>{{ prihod }}</td>
         <td>{{ odhod_dan }}</td>
         <td>{{ cas_letenja }}</td>
-        <td>{{ odhod_letalisce }}</td>
+        <td title="{{ odhod_ime }}">{{ odhod_letalisce }}</td>
         <td>{{prihod_letalisce}}</td>
     </tr>
     %end
