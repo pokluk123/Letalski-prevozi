@@ -63,13 +63,12 @@ def poisci(id):
     """
     sql ="""SELECT id, odhod, prihod, odhod_dan, cas_letenja, odhod_letalisce, prihod_letalisce FROM let JOIN  linije ON let.stevilka_leta = linije.koda WHERE id = ?"""
     return conn.execute(sql, [id]).fetchone()
-        
 
-""" def poisci(niz):
-    
-    Vrne vse osebe, ki v imenu vsebujejo dani niz.
-    
-    sql = "SELECT id, ime FROM oseba WHERE ime LIKE ?"
-    for id, ime in conn.execute(sql, ['%' + niz + '%']):
-        yield Oseba(ime=ime, id=id)
- """
+
+def ime_letalisca(niz):
+    """
+    Vrne ime letalisca glede na njegovo kodo
+    """
+    sql ="""SELECT koda_letalisce FROM letalisca WHERE koda_letalisce LIKE ?"""
+    return conn.execute(sql, [niz]).fetchone()
+
