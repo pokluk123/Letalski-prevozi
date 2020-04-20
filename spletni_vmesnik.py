@@ -1,7 +1,7 @@
 from bottle import route, run, template, get, static_file, post, request, redirect
 import os.path
 import modeli
-
+import 'bulma-0.8.2/css/bulma.css'
 
 @get('/')
 def glavna_stran():
