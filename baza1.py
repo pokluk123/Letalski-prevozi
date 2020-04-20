@@ -1,4 +1,5 @@
 import csv
+import 'bulma-0.8.2/css/bulma.css'
 
 def pobrisi_tabele(conn):
     """
